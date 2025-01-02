@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.1)  2 JAN 2025 13:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.1)  2 JAN 2025 14:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -702,17 +702,78 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \extratabsurround=\skip81
 \backup@length=\skip82
 \ar@cellbox=\box59
-) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip83
+\LTright=\skip84
+\LTpre=\skip85
+\LTpost=\skip86
+\LTchunksize=\count431
+\LTcapwidth=\dimen164
+\LT@head=\box60
+\LT@firsthead=\box61
+\LT@foot=\box62
+\LT@lastfoot=\box63
+\LT@gbox=\box64
+\LT@cols=\count432
+\LT@rows=\count433
+\c@LT@tables=\count434
+\c@LT@chunks=\count435
+\LT@p@ftn=\toks30
+) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count436
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box65
+)
+\tc@llx=\dimen165
+\tc@lly=\dimen166
+\tc@urx=\dimen167
+\tc@ury=\dimen168
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen169
+\adjbox@Height=\dimen170
+\adjbox@Depth=\dimen171
+\adjbox@Totalheight=\dimen172
+\adjbox@pwidth=\dimen173
+\adjbox@pheight=\dimen174
+\adjbox@pdepth=\dimen175
+\adjbox@ptotalheight=\dimen176
+ (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count437
+) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box66
+\sift@deathcycles=\count438
+\@vwid@loff=\dimen177
+\@vwid@roff=\dimen178
+)) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box60
-\beforetitleunit=\skip83
-\aftertitleunit=\skip84
-\ttl@plus=\dimen164
-\ttl@minus=\dimen165
-\ttl@toksa=\toks30
-\titlewidth=\dimen166
-\titlewidthlast=\dimen167
-\titlewidthfirst=\dimen168
+\ttl@box=\box67
+\beforetitleunit=\skip87
+\aftertitleunit=\skip88
+\ttl@plus=\dimen179
+\ttl@minus=\dimen180
+\ttl@toksa=\toks33
+\titlewidth=\dimen181
+\titlewidthlast=\dimen182
+\titlewidthfirst=\dimen183
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
@@ -722,24 +783,35 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count431
-\Gm@cntv=\count432
-\c@Gm@tempcnt=\count433
-\Gm@bindingoffset=\dimen169
-\Gm@wd@mp=\dimen170
-\Gm@odd@mp=\dimen171
-\Gm@even@mp=\dimen172
-\Gm@layoutwidth=\dimen173
-\Gm@layoutheight=\dimen174
-\Gm@layouthoffset=\dimen175
-\Gm@layoutvoffset=\dimen176
-\Gm@dimlist=\toks31
- (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen177
-\pgfutil@tempdimb=\dimen178
+\Gm@cnth=\count439
+\Gm@cntv=\count440
+\c@Gm@tempcnt=\count441
+\Gm@bindingoffset=\dimen184
+\Gm@wd@mp=\dimen185
+\Gm@odd@mp=\dimen186
+\Gm@even@mp=\dimen187
+\Gm@layoutwidth=\dimen188
+\Gm@layoutheight=\dimen189
+\Gm@layouthoffset=\dimen190
+\Gm@layoutvoffset=\dimen191
+\Gm@dimlist=\toks34
+ (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/12/09 v4.5 Extensive control of page headers and footers
+\f@nch@headwidth=\skip89
+\f@nch@O@elh=\skip90
+\f@nch@O@erh=\skip91
+\f@nch@O@olh=\skip92
+\f@nch@O@orh=\skip93
+\f@nch@O@elf=\skip94
+\f@nch@O@erf=\skip95
+\f@nch@O@olf=\skip96
+\f@nch@O@orf=\skip97
+) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks35
+\pgfutil@tempdima=\dimen192
+\pgfutil@tempdimb=\dimen193
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
-\pgfutil@abb=\box61
+\pgfutil@abb=\box68
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
@@ -747,31 +819,31 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks33
-\pgfkeys@temptoks=\toks34
+\pgfkeys@pathtoks=\toks36
+\pgfkeys@temptoks=\toks37
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks35
+\pgfkeys@tmptoks=\toks38
 ))
-\pgf@x=\dimen179
-\pgf@y=\dimen180
-\pgf@xa=\dimen181
-\pgf@ya=\dimen182
-\pgf@xb=\dimen183
-\pgf@yb=\dimen184
-\pgf@xc=\dimen185
-\pgf@yc=\dimen186
-\pgf@xd=\dimen187
-\pgf@yd=\dimen188
+\pgf@x=\dimen194
+\pgf@y=\dimen195
+\pgf@xa=\dimen196
+\pgf@ya=\dimen197
+\pgf@xb=\dimen198
+\pgf@yb=\dimen199
+\pgf@xc=\dimen256
+\pgf@yc=\dimen257
+\pgf@xd=\dimen258
+\pgf@yd=\dimen259
 \w@pgf@writea=\write4
 \r@pgf@reada=\read3
-\c@pgf@counta=\count434
-\c@pgf@countb=\count435
-\c@pgf@countc=\count436
-\c@pgf@countd=\count437
-\t@pgf@toka=\toks36
-\t@pgf@tokb=\toks37
-\t@pgf@tokc=\toks38
-\pgf@sys@id@count=\count438
+\c@pgf@counta=\count442
+\c@pgf@countb=\count443
+\c@pgf@countc=\count444
+\c@pgf@countd=\count445
+\t@pgf@toka=\toks39
+\t@pgf@tokb=\toks40
+\t@pgf@tokc=\toks41
+\pgf@sys@id@count=\count446
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -782,8 +854,8 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count439
-\pgfsyssoftpath@bigbuffer@items=\count440
+\pgfsyssoftpath@smallbuffer@items=\count447
+\pgfsyssoftpath@bigbuffer@items=\count448
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
@@ -806,52 +878,52 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen189
-\pgfmath@count=\count441
-\pgfmath@box=\box62
-\pgfmath@toks=\toks39
-\pgfmath@stack@operand=\toks40
-\pgfmath@stack@operation=\toks41
+\pgfmath@dimen=\dimen260
+\pgfmath@count=\count449
+\pgfmath@box=\box69
+\pgfmath@toks=\toks42
+\pgfmath@stack@operand=\toks43
+\pgfmath@stack@operation=\toks44
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count442
+\c@pgfmathroundto@lastzeros=\count450
 )) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen190
-\pgf@picmaxx=\dimen191
-\pgf@picminy=\dimen192
-\pgf@picmaxy=\dimen193
-\pgf@pathminx=\dimen194
-\pgf@pathmaxx=\dimen195
-\pgf@pathminy=\dimen196
-\pgf@pathmaxy=\dimen197
-\pgf@xx=\dimen198
-\pgf@xy=\dimen199
-\pgf@yx=\dimen256
-\pgf@yy=\dimen257
-\pgf@zx=\dimen258
-\pgf@zy=\dimen259
+\pgf@picminx=\dimen261
+\pgf@picmaxx=\dimen262
+\pgf@picminy=\dimen263
+\pgf@picmaxy=\dimen264
+\pgf@pathminx=\dimen265
+\pgf@pathmaxx=\dimen266
+\pgf@pathminy=\dimen267
+\pgf@pathmaxy=\dimen268
+\pgf@xx=\dimen269
+\pgf@xy=\dimen270
+\pgf@yx=\dimen271
+\pgf@yy=\dimen272
+\pgf@zx=\dimen273
+\pgf@zy=\dimen274
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen260
-\pgf@path@lasty=\dimen261
+\pgf@path@lastx=\dimen275
+\pgf@path@lasty=\dimen276
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen262
-\pgf@shorten@start@additional=\dimen263
+\pgf@shorten@end@additional=\dimen277
+\pgf@shorten@start@additional=\dimen278
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box63
-\pgf@hbox=\box64
-\pgf@layerbox@main=\box65
-\pgf@picture@serial@count=\count443
+\pgfpic=\box70
+\pgf@hbox=\box71
+\pgf@layerbox@main=\box72
+\pgf@picture@serial@count=\count451
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen264
+\pgflinewidth=\dimen279
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen265
-\pgf@pt@y=\dimen266
-\pgf@pt@temp=\dimen267
+\pgf@pt@x=\dimen280
+\pgf@pt@y=\dimen281
+\pgf@pt@temp=\dimen282
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
@@ -860,17 +932,17 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen268
+\pgfarrowsep=\dimen283
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen269
-\pgf@sys@shading@range@num=\count444
-\pgf@shadingcount=\count445
+\pgf@max=\dimen284
+\pgf@sys@shading@range@num=\count452
+\pgf@shadingcount=\count453
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box66
+\pgfexternal@startupbox=\box73
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
@@ -881,58 +953,58 @@ File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box67
+\pgfnodeparttextbox=\box74
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen270
-\pgf@nodesepend=\dimen271
+\pgf@nodesepstart=\dimen285
+\pgf@nodesepend=\dimen286
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen272
-\pgffor@skip=\dimen273
-\pgffor@stack=\toks42
-\pgffor@toks=\toks43
+\pgffor@iter=\dimen287
+\pgffor@skip=\dimen288
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
 )) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count446
-\pgfplotmarksize=\dimen274
+\pgf@plot@mark@count=\count454
+\pgfplotmarksize=\dimen289
 )
-\tikz@lastx=\dimen275
-\tikz@lasty=\dimen276
-\tikz@lastxsaved=\dimen277
-\tikz@lastysaved=\dimen278
-\tikz@lastmovetox=\dimen279
-\tikz@lastmovetoy=\dimen280
-\tikzleveldistance=\dimen281
-\tikzsiblingdistance=\dimen282
-\tikz@figbox=\box68
-\tikz@figbox@bg=\box69
-\tikz@tempbox=\box70
-\tikz@tempbox@bg=\box71
-\tikztreelevel=\count447
-\tikznumberofchildren=\count448
-\tikznumberofcurrentchild=\count449
-\tikz@fig@count=\count450
+\tikz@lastx=\dimen290
+\tikz@lasty=\dimen291
+\tikz@lastxsaved=\dimen292
+\tikz@lastysaved=\dimen293
+\tikz@lastmovetox=\dimen294
+\tikz@lastmovetoy=\dimen295
+\tikzleveldistance=\dimen296
+\tikzsiblingdistance=\dimen297
+\tikz@figbox=\box75
+\tikz@figbox@bg=\box76
+\tikz@tempbox=\box77
+\tikz@tempbox@bg=\box78
+\tikztreelevel=\count455
+\tikznumberofchildren=\count456
+\tikznumberofcurrentchild=\count457
+\tikz@fig@count=\count458
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count451
-\pgfmatrixcurrentcolumn=\count452
-\pgf@matrix@numberofcolumns=\count453
+\pgfmatrixcurrentrow=\count459
+\pgfmatrixcurrentcolumn=\count460
+\pgf@matrix@numberofcolumns=\count461
 )
-\tikz@expandcount=\count454
+\tikz@expandcount=\count462
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-\@quotelevel=\count455
-\@quotereset=\count456
+\@quotelevel=\count463
+\@quotereset=\count464
 
 
 LaTeX Warning: Unused global option(s):
@@ -942,33 +1014,33 @@ LaTeX Warning: Unused global option(s):
 
 LaTeX Warning: Label `fig:usecase-tong-quat' multiply defined.
 
-) (Chapter3/chapter3.aux) (Appendix/publication.aux) (Appendix/appendix1.aux
+) (Chapter3/chapter3.aux) (Chapter4/chapter4.aux) (Chapter5/chapter5.aux) (Appendix/publication.aux) (Appendix/appendix1.aux
 
 LaTeX Warning: Label `Appendix1' multiply defined.
 
 ))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
@@ -984,34 +1056,50 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
-Package biblatex Info: Reference section=0 on input line 125.
-Package biblatex Info: Reference segment=0 on input line 125.
-Package hyperref Info: Link coloring OFF on input line 125.
+ (main.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'kim2024transformer':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'le2023attention':
+(biblatex)                - Invalid format of field 'month'.
+
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Swanson1999Mathematics':
+(biblatex)                - Invalid format of field 'month'.
+
+)
+Package biblatex Info: Reference section=0 on input line 134.
+Package biblatex Info: Reference segment=0 on input line 134.
+Package hyperref Info: Link coloring OFF on input line 134.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count457
-\scratchdimen=\dimen283
-\scratchbox=\box72
-\nofMPsegments=\count458
-\nofMParguments=\count459
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count460
-\MPscratchDim=\dimen284
-\MPnumerator=\count461
-\makeMPintoPDFobject=\count462
-\everyMPtoPDFconversion=\toks45
+\scratchcounter=\count465
+\scratchdimen=\dimen298
+\scratchbox=\box79
+\nofMPsegments=\count466
+\nofMParguments=\count467
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count468
+\MPscratchDim=\dimen299
+\MPnumerator=\count469
+\makeMPintoPDFobject=\count470
+\everyMPtoPDFconversion=\toks48
 ) (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count463
+\c@lstlisting=\count471
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1021,15 +1109,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includefoot 
-* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
-* v-part:(T,H,B)=(99.58464pt, 688.5567pt, 56.9055pt)
+* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=441.01773pt
 * \textheight=645.87758pt
-* \oddsidemargin=27.31465pt
-* \evensidemargin=27.31465pt
-* \topmargin=-9.68535pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1048,23 +1136,18 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (Title/title.tex
-<images/Logo-DH-Thuy-Loi.png, id=269, 1204.5pt x 1002.74625pt>
+<images/Logo-DH-Thuy-Loi.png, id=365, 1204.5pt x 1002.74625pt>
 File: images/Logo-DH-Thuy-Loi.png Graphic file (type png)
 <use images/Logo-DH-Thuy-Loi.png>
 Package pdftex.def Info: images/Logo-DH-Thuy-Loi.png  used on input line 7.
 (pdftex.def)             Requested size: 180.6672pt x 150.40544pt.
  [1
 
-{C:/Users/NGUYEN VAN HAI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/Logo-DH-Thuy-Loi.png>]
-Overfull \hbox (14.85103pt too wide) in paragraph at lines 59--68
- [][] 
- []
-
-) [1
+{C:/Users/NGUYEN VAN HAI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/Logo-DH-Thuy-Loi.png>]) [1
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.132 \include{Appendix/adviser}
+l.141 \include{Appendix/adviser}
                                 ]
 \openout2 = `Appendix/adviser.aux'.
 
@@ -1083,21 +1166,21 @@ l.132 \include{Appendix/adviser}
 
 
 
-])
+] [5])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [5] (main.lof)
+ [6] (main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [6
+ [7
 
 ] (main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [7
+ [8
 
 ]
 \openout2 = `Appendix/tomtat.aux'.
@@ -1140,7 +1223,39 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 115.
 (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [2] [3] [4]) [5]
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[4])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[5]
 \openout2 = `Chapter2/chapter2.aux'.
 
  (Chapter2/chapter2.tex
@@ -1151,28 +1266,76 @@ ChÆ°Æ¡ng 2.
 
 
 ]
-<images/usecase.png, id=427, 823.57687pt x 491.58656pt>
+<images/usecase.png, id=567, 823.57687pt x 491.58656pt>
 File: images/usecase.png Graphic file (type png)
 <use images/usecase.png>
 Package pdftex.def Info: images/usecase.png  used on input line 46.
 (pdftex.def)             Requested size: 441.01773pt x 263.23999pt.
- [7] [8
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[8
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.70     \item \textbf
                       {Æ¯u Ä‘iá»ƒm:} <./images/usecase.png>]
-<images/waterfall.png, id=436, 567.62062pt x 490.83376pt>
+<images/waterfall.png, id=576, 567.62062pt x 490.83376pt>
 File: images/waterfall.png Graphic file (type png)
 <use images/waterfall.png>
 Package pdftex.def Info: images/waterfall.png  used on input line 88.
 (pdftex.def)             Requested size: 441.01773pt x 381.37335pt.
- [9] [10
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.117     \item \textbf
-                       {CÃ´ng viá»‡c:} <./images/waterfall.png>] [11]) [12]
+                       {CÃ´ng viá»‡c:} <./images/waterfall.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[11])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[12]
 \openout2 = `Chapter3/chapter3.aux'.
 
  (Chapter3/chapter3.tex
@@ -1182,134 +1345,756 @@ ChÆ°Æ¡ng 3.
 
 
 
-] [14] [15]
-<images/sodophanratongquat.png, id=466, 1143.52219pt x 409.53pt>
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[15]
+<images/sodophanratongquat.png, id=606, 1143.52219pt x 409.53pt>
 File: images/sodophanratongquat.png Graphic file (type png)
 <use images/sodophanratongquat.png>
-Package pdftex.def Info: images/sodophanratongquat.png  used on input line 163.
+Package pdftex.def Info: images/sodophanratongquat.png  used on input line 186.
 (pdftex.def)             Requested size: 441.01773pt x 157.94136pt.
-<images/hskhaosat.png, id=467, 566.115pt x 346.29375pt>
+<images/hskhaosat.png, id=607, 566.115pt x 346.29375pt>
 File: images/hskhaosat.png Graphic file (type png)
 <use images/hskhaosat.png>
-Package pdftex.def Info: images/hskhaosat.png  used on input line 168.
+Package pdftex.def Info: images/hskhaosat.png  used on input line 191.
 (pdftex.def)             Requested size: 441.01773pt x 269.78041pt.
-<images/hspttk.png, id=468, 804.00375pt x 404.26031pt>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[16]
+<images/hspttk.png, id=613, 804.00375pt x 404.26031pt>
 File: images/hspttk.png Graphic file (type png)
 <use images/hspttk.png>
-Package pdftex.def Info: images/hspttk.png  used on input line 173.
+Package pdftex.def Info: images/hspttk.png  used on input line 196.
 (pdftex.def)             Requested size: 441.01773pt x 221.74551pt.
- [16
+<images/pmquanlyns-tl.png, id=614, 643.6547pt x 400.49625pt>
+File: images/pmquanlyns-tl.png Graphic file (type png)
+<use images/pmquanlyns-tl.png>
+Package pdftex.def Info: images/pmquanlyns-tl.png  used on input line 201.
+(pdftex.def)             Requested size: 441.01773pt x 274.41772pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[17
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.175 \end{figure}
-                   <./images/sodophanratongquat.png>]
-<images/pmquanlyns-tl.png, id=473, 643.6547pt x 400.49625pt>
-File: images/pmquanlyns-tl.png Graphic file (type png)
-<use images/pmquanlyns-tl.png>
-Package pdftex.def Info: images/pmquanlyns-tl.png  used on input line 178.
-(pdftex.def)             Requested size: 441.01773pt x 274.41772pt.
-<images/pmsaukiemthu.png, id=474, 547.2947pt x 213.04594pt>
-File: images/pmsaukiemthu.png Graphic file (type png)
-<use images/pmsaukiemthu.png>
-Package pdftex.def Info: images/pmsaukiemthu.png  used on input line 183.
-(pdftex.def)             Requested size: 441.01773pt x 171.67879pt.
- [17
+l.203 \end{figure}
+                  
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.185 \end{figure}
-                  
+l.203 \end{figure}
+                   <./images/sodophanratongquat.png> <./images/hskhaosat.png>]
+<images/pmsaukiemthu.png, id=619, 547.2947pt x 213.04594pt>
+File: images/pmsaukiemthu.png Graphic file (type png)
+<use images/pmsaukiemthu.png>
+Package pdftex.def Info: images/pmsaukiemthu.png  used on input line 206.
+(pdftex.def)             Requested size: 441.01773pt x 171.67879pt.
+<images/pmsautrienkhai.png, id=620, 659.46375pt x 271.0125pt>
+File: images/pmsautrienkhai.png Graphic file (type png)
+<use images/pmsautrienkhai.png>
+Package pdftex.def Info: images/pmsautrienkhai.png  used on input line 211.
+(pdftex.def)             Requested size: 441.01773pt x 181.2466pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.185 \end{figure}
-                   <./images/hskhaosat.png> <./images/hspttk.png>]
-<images/pmsautrienkhai.png, id=480, 659.46375pt x 271.0125pt>
-File: images/pmsautrienkhai.png Graphic file (type png)
-<use images/pmsautrienkhai.png>
-Package pdftex.def Info: images/pmsautrienkhai.png  used on input line 188.
-(pdftex.def)             Requested size: 441.01773pt x 181.2466pt.
- [18
+l.213 \end{figure}
+                  
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.191 ...ction{BiÃªn báº£n pháº¡m vi cÃ´ng viá»‡c}
-                                                  
+l.213 \end{figure}
+                   <./images/hspttk.png> <./images/pmquanlyns-tl.png>]
+<images/aoa.png, id=625, 1230.09563pt x 468.24937pt>
+File: images/aoa.png Graphic file (type png)
+<use images/aoa.png>
+Package pdftex.def Info: images/aoa.png  used on input line 224.
+(pdftex.def)             Requested size: 441.01773pt x 167.87659pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[19
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.191 ...ction{BiÃªn báº£n pháº¡m vi cÃ´ng viá»‡c}
-                                                   <./images/pmquanlyns-tl.png> <./images/pmsaukiemthu.png>]
-<images/aoa.png, id=485, 1230.09563pt x 468.24937pt>
-File: images/aoa.png Graphic file (type png)
-<use images/aoa.png>
-Package pdftex.def Info: images/aoa.png  used on input line 201.
-(pdftex.def)             Requested size: 441.01773pt x 167.87659pt.
-<images/aon.png, id=486, 1078.0275pt x 548.0475pt>
-File: images/aon.png Graphic file (type png)
-<use images/aon.png>
-Package pdftex.def Info: images/aon.png  used on input line 207.
-(pdftex.def)             Requested size: 441.01773pt x 224.20753pt.
- [19
+l.227 \subsubsection{SÆ¡ Ä‘á»“ AON}
+                                   
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.210 \subsection{SÆ¡ Ä‘á»“ Gantt}
-                                  
+l.227 \subsubsection{SÆ¡ Ä‘á»“ AON}
+                                    <./images/pmsaukiemthu.png> <./images/pmsautrienkhai.png>]
+<images/aon.png, id=630, 1078.0275pt x 548.0475pt>
+File: images/aon.png Graphic file (type png)
+<use images/aon.png>
+Package pdftex.def Info: images/aon.png  used on input line 230.
+(pdftex.def)             Requested size: 441.01773pt x 224.20753pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[20
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.210 \subsection{SÆ¡ Ä‘á»“ Gantt}
-                                   <./images/pmsautrienkhai.png> <./images/aoa.png>]
-<images/gantt1.png, id=491, 1389.69188pt x 199.49532pt>
+l.233 \subsection{SÆ¡ Ä‘á»“ Gantt}
+                                   <./images/aoa.png>]
+<images/gantt1.png, id=635, 1389.69188pt x 199.49532pt>
 File: images/gantt1.png Graphic file (type png)
 <use images/gantt1.png>
-Package pdftex.def Info: images/gantt1.png  used on input line 213.
+Package pdftex.def Info: images/gantt1.png  used on input line 236.
 (pdftex.def)             Requested size: 441.01773pt x 63.30708pt.
-<images/gantt2.png, id=492, 1385.175pt x 449.42906pt>
+<images/gantt2.png, id=636, 1385.175pt x 449.42906pt>
 File: images/gantt2.png Graphic file (type png)
 <use images/gantt2.png>
-Package pdftex.def Info: images/gantt2.png  used on input line 214.
+Package pdftex.def Info: images/gantt2.png  used on input line 237.
 (pdftex.def)             Requested size: 441.01773pt x 143.08646pt.
-<images/gantt3.png, id=493, 1385.175pt x 331.2375pt>
+<images/gantt3.png, id=637, 1385.175pt x 331.2375pt>
 File: images/gantt3.png Graphic file (type png)
 <use images/gantt3.png>
-Package pdftex.def Info: images/gantt3.png  used on input line 215.
+Package pdftex.def Info: images/gantt3.png  used on input line 238.
 (pdftex.def)             Requested size: 441.01773pt x 105.45735pt.
-<images/gantt4.png, id=494, 1386.68062pt x 220.57407pt>
+<images/gantt4.png, id=638, 1386.68062pt x 220.57407pt>
 File: images/gantt4.png Graphic file (type png)
 <use images/gantt4.png>
-Package pdftex.def Info: images/gantt4.png  used on input line 216.
+Package pdftex.def Info: images/gantt4.png  used on input line 239.
 (pdftex.def)             Requested size: 441.01773pt x 70.15096pt.
-<images/gantt_tv.png, id=495, 354.57469pt x 89.58469pt>
+<images/gantt_tv.png, id=639, 354.57469pt x 89.58469pt>
 File: images/gantt_tv.png Graphic file (type png)
 <use images/gantt_tv.png>
-Package pdftex.def Info: images/gantt_tv.png  used on input line 221.
+Package pdftex.def Info: images/gantt_tv.png  used on input line 244.
 (pdftex.def)             Requested size: 441.01773pt x 111.42831pt.
- [20
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[21
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.222 \end{figure}
-                   <./images/aon.png>]) [21
+l.245 \end{figure}
+                   <./images/aon.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[22
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.155 \include{Chapter3/chapter3}
-                                  <./images/gantt1.png> <./images/gantt2.png> <./images/gantt3.png> <./images/gantt4.png> <./images/gantt_tv.png>]
+l.253 \end{itemize}
+                    <./images/gantt1.png> <./images/gantt2.png> <./images/gantt3.png> <./images/gantt4.png> <./images/gantt_tv.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+[]|\T5/cmr/bx/n/10 Mùc l÷ìng
+ []
+
+
+Overfull \hbox (1.84076pt too wide) in paragraph at lines 319--319
+\T5/cmr/bx/n/10 (VND/Ng y)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--319
+[]|\T5/cmr/bx/n/10 Thíi gian
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[23
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.327 \end{table}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.327 \end{table}
+                 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[24
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.345 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.345 \clearpage
+                ]
+Overfull \hbox (22.18896pt too wide) in alignment at lines 346--351
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (22.18896pt too wide) in alignment at lines 351--355
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (22.18896pt too wide) in alignment at lines 355--357
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (22.18896pt too wide) in alignment at lines 357--359
+ [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 361--361
+\T5/cmr/m/n/10 chùc n«ng v  phi
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 371--371
+[]|\T5/cmr/m/n/10 Ph¥n t½ch nghi»p
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 372--372
+[]|\T5/cmr/m/n/10 Ph¥n t½ch nghi»p
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 373--373
+[]|\T5/cmr/m/n/10 Ph¥n t½ch nghi»p
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 374--374
+[]|\T5/cmr/m/n/10 Ph¥n t½ch nghi»p
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--374
+\T5/cmr/m/n/10 vö thanh to¡n
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 375--375
+[]|\T5/cmr/m/n/10 Têng hñp v  b¡o
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 375--375
+\T5/cmr/m/n/10 c¡o thi¸t k¸ h»
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 379--379
+[]|\T5/cmr/m/n/10 Têng hñp v  lªp
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 381--381
+[]|\T5/cmr/m/n/10 Thi¸t k¸ biºu ^^_ç
+ []
+
+
+Underfull \hbox (badness 4479) in paragraph at lines 381--381
+\T5/cmr/m/n/10 use-case, B^^^ lîp,
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 381--381
+\T5/cmr/m/n/10 B^^^ tu¦n tü, B^^^
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--384
+[]|\T5/cmr/m/n/10 Thi¸t k¸ CSDL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--386
+[]|\T5/cmr/m/n/10 Thi¸t k¸ CSDL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]|\T5/cmr/m/n/10 Thi¸t k¸ CSDL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--388
+[]|\T5/cmr/m/n/10 Têng hñp, nèi
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 398--398
+[]|\T5/cmr/m/n/10 Lªp tr¼nh CSDL
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 400--400
+[]|\T5/cmr/m/n/10 Lªp tr¼nh CSDL
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 401--401
+[]|\T5/cmr/m/n/10 Lªp tr¼nh CSDL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--410
+[]|\T5/cmr/m/n/10 Lªp tr¼nh chùc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]|\T5/cmr/m/n/10 Lªp tr¼nh chùc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--412
+[]|\T5/cmr/m/n/10 Lªp tr¼nh chùc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--413
+[]|\T5/cmr/m/n/10 Lªp tr¼nh chùc
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 413--413
+\T5/cmr/m/n/10 n«ng thanh to¡n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--422
+\T5/cmr/m/n/10 triºn ph¦n m·m
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 422--422
+\T5/cmr/m/n/10 sau triºn khai v 
+ []
+
+
+Overfull \hbox (22.18896pt too wide) in alignment at lines 359--429
+ [] [] [] [] [] [] [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[25
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[29
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.512 \end{itemize}
+                   
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.512 \end{itemize}
+                   
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.512 \end{itemize}
+                   ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[30])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.42429pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.42429pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-0.42429pt}.
+
+[31]
+\openout2 = `Chapter4/chapter4.aux'.
+
+ (Chapter4/chapter4.tex
+ChÆ°Æ¡ng 4.
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 7--45
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 47--93
+ [] 
+ []
+
+[32
+
+
+
+
+]
+Overfull \hbox (12.79999pt too wide) in alignment at lines 95--112
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[34]
+Overfull \hbox (12.79999pt too wide) in alignment at lines 118--154
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 156--198
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[35
+
+]
+Overfull \hbox (12.79999pt too wide) in alignment at lines 200--217
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 221--260
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+
+ []
+
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 261--326
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[38
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[39]
+Overfull \hbox (12.79999pt too wide) in alignment at lines 327--344
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 349--386
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--443
+
+ []
+
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 388--446
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[41
+
+]
+Overfull \hbox (12.79999pt too wide) in alignment at lines 448--465
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 484--485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 556--558
+
+ []
+
+
+Overfull \hbox (12.79999pt too wide) in alignment at lines 470--561
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[44
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[45]
+Overfull \hbox (12.79999pt too wide) in alignment at lines 563--580
+ [] 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.95145pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.95145pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.95145pt}.
+
+[46]
+\openout2 = `Chapter5/chapter5.aux'.
+
+ (Chapter5/chapter5.tex
+ChÆ°Æ¡ng 5.
+
+LaTeX Warning: Command \textbackslash invalid in math mode on input line 8.
+
+) [47
+
+
+
+
+]
 \openout2 = `Appendix/publication.aux'.
 
- (Appendix/publication.tex) [22
+ (Appendix/publication.tex) [48
 
 
 
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 174.
+Package biblatex Warning: Name format 'last-first' deprecated.
+(biblatex)                Please use 'family-given' instead.
+(biblatex)                Using 'family-given' now.
 
-[23
+[49
 
 
 
@@ -1318,10 +2103,10 @@ LaTeX Warning: Empty bibliography on input line 174.
 
  (Appendix/appendix1.tex
 Phá»¥ lá»¥c A.
-) [24
+) [50
 
 
-] (main.aux (Appendix/adviser.aux) (Appendix/thanks.aux) (Appendix/tomtat.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux) (Appendix/publication.aux) (Appendix/appendix1.aux))
+] (main.aux (Appendix/adviser.aux) (Appendix/thanks.aux) (Appendix/tomtat.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux) (Chapter4/chapter4.aux) (Chapter5/chapter5.aux) (Appendix/publication.aux) (Appendix/appendix1.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1331,23 +2116,23 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3EA1073A3A060047861044AC35D044B7;14255.
+(rerunfilecheck)             Checksum: 9A431DCD114420DC598E3A509F0F042A;20125.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30820 strings out of 474486
- 585334 string characters out of 5739472
- 1940542 words of memory out of 5000000
- 52475 multiletter control sequences out of 15000+600000
- 569418 words of font info for 59 fonts, out of 8000000 for 9000
+ 32656 strings out of 474486
+ 620086 string characters out of 5739472
+ 2033542 words of memory out of 5000000
+ 54163 multiletter control sequences out of 15000+600000
+ 566667 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,10n,93p,1920b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\NGUYEN VAN HAI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on main.pdf (32 pages, 1217051 bytes).
+ 84i,12n,93p,1921b,1343s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\NGUYEN VAN HAI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnti10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
+Output written on main.pdf (59 pages, 1328596 bytes).
 PDF statistics:
- 574 PDF objects out of 1000 (max. 8388607)
- 112 named destinations out of 1000 (max. 500000)
- 621 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 912 PDF objects out of 1000 (max. 8388607)
+ 208 named destinations out of 1000 (max. 500000)
+ 813 words of extra memory for PDF output out of 10000 (max. 10000000)
 

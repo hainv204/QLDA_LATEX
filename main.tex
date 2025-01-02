@@ -13,7 +13,8 @@
 	sorting=nty,
 	backend=bibtex,
 	defernumbers=true]{biblatex}
-\usepackage[unicode]{hyperref} % Bookmark tiếng Việt
+\usepackage[unicode]{hyperref} % Bookmark tiếng Việt\
+
 \addbibresource{References/references.bib}
 
 \makeatletter
@@ -62,13 +63,13 @@
 % Bảng biểu
 \usepackage{multirow}
 \usepackage{array}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage{adjustbox}
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
-
-
- 
 % Đổi tên mặc định
 \renewcommand{\chaptername}{Chương}
 \renewcommand{\figurename}{Hình}
@@ -99,15 +100,23 @@
 \usepackage{indentfirst}
 
 % Canh lề
-
 \usepackage[
-  top=35mm,
-  bottom=20mm,
-  left=35mm,
-  right=20mm,
+  top=30mm,
+  bottom=25mm,
+  left=30mm,
+  right=25mm,
   footskip = 15mm,
   includefoot]{geometry}
-  
+
+% Fancy headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\nouppercase{\leftmark}}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
 % Trang bìa
 \usepackage{tikz}
 \usetikzlibrary{calc}
@@ -154,6 +163,10 @@
 
 \include{Chapter3/chapter3}
 
+\include{Chapter4/chapter4}
+
+\include{Chapter5/chapter5}
+
 % \include{Chapter4/chapter4}
 
 % \include{Chapter5/chapter5}
@@ -171,7 +184,7 @@
 \DeclareNameAlias{sortname}{last-first}
 \DeclareNameAlias{default}{last-first}
 
-\printbibliography[heading=subbibliography, title={Tiếng Anh}, notkeyword=Tieng, resetnumbers=1] 
+\printbibliography[heading=subbibliography, title={Tiếng Anh}, notkeyword=Tieng, resetnumbers=1]
 % ===================================================================== %
 % CHÚ Ý: phải gán lại resetnumbers=số tài liệu tham khảo tiếng Việt + 1 %
 % ===================================================================== %
@@ -179,4 +192,4 @@
 % Phần phụ lục
 \include{Appendix/appendix1}
 
-\end{document} 
+\end{document}
