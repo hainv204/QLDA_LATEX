@@ -1,4 +1,4 @@
-% Template for DAN, KLTN, SVNCKH 
+
 \documentclass[oneside,a4paper,13pt]{extreport}
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{4}
@@ -19,7 +19,7 @@
 \def\blx@maxline{77}
 \makeatother
 
-% Chèn hình, các hình trong luận văn được để trong thư mục Images/
+% Chèn hình, các hình được để trong thư mục Images/
 \usepackage{graphicx}
 \graphicspath{ {images/} }
 
@@ -120,12 +120,9 @@
 \usetikzlibrary{calc}
 \newcommand\HRule{\rule{\textwidth}{1pt}}
 
-% ========================================================================================= %
-% CHÚ Ý: Thông tin chung về KLTN - sinh viên điền vào đây để tự động update các trang khác  %
-% ========================================================================================= %
 \newcommand{\tenSV}{Nguyễn~Văn~A} % Dấu ~ là khoảng trắng không được tách (các chữ nối với nhau bằng dấu ~ sẽ nằm cùng 1 dòng
 \newcommand{\mssv}{1234567}
-\newcommand{\tenKL}{Sử~dụng~LaTeX trong Khoá~luận~tốt~nghiệp} % Chú ý dấu ~ trong tên khóa luận
+\newcommand{\tenKL}{Sử~dụng~LaTeX trong Khoá~luận~tốt~nghiệp} 
 \newcommand{\tenGVHD}{Tên~Giáo~Viên}
 \newcommand{\tenBM}{Công nghệ tri thức}
 
@@ -133,22 +130,12 @@
 
 \input{Title/title.tex}
 
-\pagenumbering{roman} % Đánh số i, ii, iii, ...
-
-\addcontentsline{toc}{chapter}{Ý kiến Giảng viên hướng dẫn}
-\include{Appendix/adviser}
-
-\addcontentsline{toc}{chapter}{Lời cảm ơn}
 \include{Appendix/thanks}
 
-% Mục lục, danh sách hình, danh sách bảng
 \addcontentsline{toc}{chapter}{Mục lục}
 \tableofcontents
 \listoffigures
 \listoftables
-
-\addcontentsline{toc}{chapter}{Tóm tắt}
-\include{Appendix/tomtat}
 
 \clearpage
 
@@ -164,10 +151,6 @@
 \include{Chapter4/chapter4}
 
 \include{Chapter5/chapter5}
-
-% \include{Chapter4/chapter4}
-
-% \include{Chapter5/chapter5}
 
 % Công trình của tác giả (nếu không có thì comment 02 dòng dưới)
 \addcontentsline{toc}{chapter}{Kết luận và hướng phát triển}

@@ -1,7 +1,4 @@
-\contentsline {chapter}{Ý kiến Giảng viên hướng dẫn}{i}{table.0.1}%
-\contentsline {chapter}{Lời cảm ơn}{iii}{chapter*.1}%
-\contentsline {chapter}{Mục lục}{iv}{chapter*.2}%
-\contentsline {chapter}{Tóm tắt}{ix}{chapter*.5}%
+\contentsline {chapter}{Mục lục}{3}{chapter*.1}%
 \contentsline {chapter}{\numberline {1}Khởi động dự án}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Bối cảnh và Giải pháp}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Bối cảnh Vinhome và Vấn đề Hiện tại}{1}{subsection.1.1.1}%
@@ -79,164 +76,73 @@
 \contentsline {subsubsection}{\numberline {3.1.3.30}Thiết kế giao diện quản lý hồ sơ lương}{68}{subsubsection.3.1.3.30}%
 \contentsline {subsubsection}{\numberline {3.1.3.31}Thiết kế giao diện quản lý phần chấm công}{69}{subsubsection.3.1.3.31}%
 \contentsline {subsubsection}{\numberline {3.1.3.32}Thiết kế giao diện thanh toán lương}{70}{subsubsection.3.1.3.32}%
-\contentsline {subsubsection}{\numberline {3.1.3.33}Thiết kế giao diện quản lý nhân sự}{71}{subsubsection.3.1.3.33}%
+\contentsline {subsubsection}{\numberline {3.1.3.33}Tổng hợp, lập bản thiết kế giao diện}{71}{subsubsection.3.1.3.33}%
 \contentsline {subsubsection}{\numberline {3.1.3.34}Lập hồ sơ phân tích thiết kế}{72}{subsubsection.3.1.3.34}%
-\contentsline {subsubsection}{\numberline {3.1.3.35}Phân tích và thiết kế hệ thống}{73}{subsubsection.3.1.3.35}%
-\contentsline {subsubsection}{\numberline {3.1.3.36}Lập trình CSDL nhân sự}{74}{subsubsection.3.1.3.36}%
-\contentsline {subsubsection}{\numberline {3.1.3.37}Lập trình CSDL hồ sơ lương}{75}{subsubsection.3.1.3.37}%
-\contentsline {subsubsection}{\numberline {3.1.3.38}Lập trình CSDL phần chấm công}{76}{subsubsection.3.1.3.38}%
-\contentsline {subsubsection}{\numberline {3.1.3.39}Lập trình CSDL thanh toán lương}{77}{subsubsection.3.1.3.39}%
-\contentsline {subsubsection}{\numberline {3.1.3.40}Tổng hợp mã nguồn xây dựng CSDL}{78}{subsubsection.3.1.3.40}%
-\contentsline {subsubsection}{\numberline {3.1.3.41}Xây dựng và phát triển CSDL}{79}{subsubsection.3.1.3.41}%
-\contentsline {subsubsection}{\numberline {3.1.3.42}Lập trình giao diện nhân sự}{80}{subsubsection.3.1.3.42}%
-\contentsline {subsubsection}{\numberline {3.1.3.43}Lập trình giao diện quản lý hồ sơ lương}{81}{subsubsection.3.1.3.43}%
-\contentsline {subsubsection}{\numberline {3.1.3.44}Lập trình giao diện quản lý phần chấm công}{82}{subsubsection.3.1.3.44}%
-\contentsline {subsubsection}{\numberline {3.1.3.45}Lập trình giao diện thanh toán lương}{83}{subsubsection.3.1.3.45}%
-\contentsline {subsubsection}{\numberline {3.1.3.46}Tổng hợp mã nguồn xây dựng Front-end}{84}{subsubsection.3.1.3.46}%
-\contentsline {subsubsection}{\numberline {3.1.3.47}Xây dựng và phát triển Front-end}{85}{subsubsection.3.1.3.47}%
-\contentsline {subsubsection}{\numberline {3.1.3.48}Lập trình chức năng quản lý nhân sự}{86}{subsubsection.3.1.3.48}%
-\contentsline {subsubsection}{\numberline {3.1.3.49}Lập trình chức năng quản lý hồ sơ lương}{87}{subsubsection.3.1.3.49}%
-\contentsline {subsubsection}{\numberline {3.1.3.50}Lập trình chức năng quản lý phần chấm công}{88}{subsubsection.3.1.3.50}%
-\contentsline {subsubsection}{\numberline {3.1.3.51}Lập trình chức năng thanh toán lương}{89}{subsubsection.3.1.3.51}%
-\contentsline {subsubsection}{\numberline {3.1.3.52}Tổng hợp mã nguồn xây dựng Back-end}{90}{subsubsection.3.1.3.52}%
-\contentsline {subsubsection}{\numberline {3.1.3.53}Xây dựng và phát triển Back-end}{91}{subsubsection.3.1.3.53}%
-\contentsline {subsubsection}{\numberline {3.1.3.54}Tích hợp mã nguồn đa tầng}{92}{subsubsection.3.1.3.54}%
-\contentsline {subsubsection}{\numberline {3.1.3.55}Xây dựng và phát triển hệ thống}{93}{subsubsection.3.1.3.55}%
-\contentsline {subsubsection}{\numberline {3.1.3.56}Viết testcase}{94}{subsubsection.3.1.3.56}%
-\contentsline {subsubsection}{\numberline {3.1.3.57}Chạy testcase}{95}{subsubsection.3.1.3.57}%
-\contentsline {subsubsection}{\numberline {3.1.3.58}Kiểm tra và sửa lỗi}{96}{subsubsection.3.1.3.58}%
-\contentsline {subsubsection}{\numberline {3.1.3.59}Lập hồ sơ kiểm thử}{97}{subsubsection.3.1.3.59}%
-\contentsline {subsubsection}{\numberline {3.1.3.60}Hồ sơ kiểm thử}{98}{subsubsection.3.1.3.60}%
-\contentsline {subsubsection}{\numberline {3.1.3.61}Phần mềm sau kiểm thử}{99}{subsubsection.3.1.3.61}%
-\contentsline {subsubsection}{\numberline {3.1.3.62}Viết tài liệu hướng dẫn sử dụng}{100}{subsubsection.3.1.3.62}%
-\contentsline {subsubsection}{\numberline {3.1.3.63}Bàn giao và cài đặt}{101}{subsubsection.3.1.3.63}%
-\contentsline {subsubsection}{\numberline {3.1.3.64}Đào tạo sử dụng}{102}{subsubsection.3.1.3.64}%
-\contentsline {subsubsection}{\numberline {3.1.3.65}Lập hồ sơ triển khai và chuyển giao}{103}{subsubsection.3.1.3.65}%
-\contentsline {subsubsection}{\numberline {3.1.3.66}Hồ sơ triển khai và chuyển giao}{104}{subsubsection.3.1.3.66}%
-\contentsline {subsubsection}{\numberline {3.1.3.67}Phần mềm sau chuyển giao}{105}{subsubsection.3.1.3.67}%
-\contentsline {section}{\numberline {3.2}Kế hoạch quản lý thời gian}{106}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Bảng phụ thuộc công việc và quan hệ thời gian}{106}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Sơ đồ AOA và AON}{108}{subsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.1}Sơ đồ AOA}{108}{subsubsection.3.2.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2.2}Sơ đồ AON}{109}{subsubsection.3.2.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Sơ đồ Gantt}{110}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Tổng kết kế hoạch quản lý thời gian}{110}{subsection.3.2.4}%
-\contentsline {section}{\numberline {3.3}Kế hoạch quản lý chi phí}{115}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Kế hoạch cho nguồn tài nguyên}{115}{subsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.1.1}Tài sản cố định}{115}{subsubsection.3.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.3.1.2}Chi phí vận hành}{115}{subsubsection.3.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.3.1.3}Chi phí phần mềm}{115}{subsubsection.3.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.3.1.4}Phúc lợi và hoạt động khác}{115}{subsubsection.3.3.1.4}%
-\contentsline {subsection}{\numberline {3.3.2}Ước lượng chi phí}{115}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Dự toán chi phí}{115}{subsection.3.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.3.1}Tài sản cố định}{115}{subsubsection.3.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.3.2}Chi phí vận hành}{116}{subsubsection.3.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3.3}Chi phí phần mềm}{121}{subsubsection.3.3.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.3.4}Phúc lợi và hoạt động khác}{121}{subsubsection.3.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.4}Quản lý chi phí chia theo giai đoạn dự án}{121}{subsection.3.3.4}%
-\contentsline {subsubsection}{\numberline {3.3.4.1}Bảng phân bổ chi phí theo giai đoạn dự án}{121}{subsubsection.3.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.3.4.2}Quản lý chi phí chi tiết theo giai đoạn dự án}{121}{subsubsection.3.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.3.4.3}Tổng chi phí dự án}{123}{subsubsection.3.3.4.3}%
-\contentsline {chapter}{\numberline {4}THỰC THI DỰ ÁN}{124}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Thực thi giai đoạn Khảo sát}{124}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Thực thi giai đoạn Phân tích thiết kế hệ thống}{127}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Thực thi giai đoạn Xây dựng và phát triển hệ thống}{130}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau kiểm thử}{133}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau triển khai và chuyển giao}{136}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Trích dẫn tài liệu}{139}{chapter.5}%
-\contentsline {chapter}{Danh mục công trình của tác giả}{140}{chapter.5}%
-\contentsline {chapter}{Tài liệu tham khảo}{141}{Item.19}%
-\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{142}{appendix.A}%
-
-\contentsline {chapter}{Ý kiến Giảng viên hướng dẫn}{i}{table.0.1}%
-\contentsline {chapter}{Lời cảm ơn}{iii}{chapter*.1}%
-\contentsline {chapter}{Mục lục}{iv}{chapter*.2}%
-\contentsline {chapter}{Tóm tắt}{viii}{chapter*.5}%
-\contentsline {chapter}{\numberline {1}Khởi động dự án}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Bối cảnh và Giải pháp}{1}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Bối cảnh Vinhome và Vấn đề Hiện tại}{1}{subsection.1.1.1}%
-\contentsline {paragraph}{\numberline {1.1.1.0.1}Hoàn cảnh:}{1}{paragraph.1.1.1.0.1}%
-\contentsline {paragraph}{\numberline {1.1.1.0.2}Vấn đề nảy sinh:}{1}{paragraph.1.1.1.0.2}%
-\contentsline {subsection}{\numberline {1.1.2}Giải pháp và quyết định Xác lập dự án}{1}{subsection.1.1.2}%
-\contentsline {paragraph}{\numberline {1.1.2.0.1}Giải pháp mong muốn:}{1}{paragraph.1.1.2.0.1}%
-\contentsline {paragraph}{\numberline {1.1.2.0.2}Quyết định thuê đơn vị phát triển:}{1}{paragraph.1.1.2.0.2}%
-\contentsline {section}{\numberline {1.2}Tôn chỉ dự án}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Môi trường dự án}{1}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Môi trường pháp lý}{1}{subsection.1.3.1}%
-\contentsline {paragraph}{\numberline {1.3.1.0.1}A.Các quy định pháp luật cần tuân thủ}{1}{paragraph.1.3.1.0.1}%
-\contentsline {paragraph}{\numberline {1.3.1.0.2}B. Điều khoản bảo mật và NDA}{2}{paragraph.1.3.1.0.2}%
-\contentsline {paragraph}{\numberline {1.3.1.0.3}C.Trách nhiệm và Chế tài vi phạm}{2}{paragraph.1.3.1.0.3}%
-\contentsline {subparagraph}{Trách nhiệm của các bên:}{2}{paragraph.1.3.1.0.3}%
-\contentsline {subparagraph}{Chế tài nếu vi phạm:}{2}{paragraph.1.3.1.0.3}%
-\contentsline {subsection}{\numberline {1.3.2}Môi trường để hoạt động dự án}{2}{subsection.1.3.2}%
-\contentsline {paragraph}{\numberline {1.3.2.0.1}A. Môi trường hạ tầng và công nghệ}{2}{paragraph.1.3.2.0.1}%
-\contentsline {subparagraph}{Quy định kết nối mạng:}{3}{paragraph.1.3.2.0.1}%
-\contentsline {subparagraph}{Thiết bị, công cụ làm việc:}{3}{paragraph.1.3.2.0.1}%
-\contentsline {paragraph}{\numberline {1.3.2.0.2}B. Môi trường quản lý và điều hành}{3}{paragraph.1.3.2.0.2}%
-\contentsline {section}{\numberline {1.4}Cơ chế hoạt động của dự án}{4}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Thời gian và Lịch làm việc}{4}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Chi tiêu tài chính}{4}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.4.3}Quy trình báo cáo và giao tiếp}{4}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.4.4}Cung cấp trang thiết bị và Điều kiện làm việc}{4}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.4.5}Họp định kỳ: Họp giai đoạn}{5}{subsection.1.4.5}%
-\contentsline {chapter}{\numberline {2}Kế hoạch tổng thể (BPP)}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Mô tả sản phẩm}{6}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Quy định sản phẩm}{6}{subsection.2.1.1}%
-\contentsline {paragraph}{\numberline {2.1.1.0.1}Sản phẩm:}{6}{paragraph.2.1.1.0.1}%
-\contentsline {paragraph}{\numberline {2.1.1.0.2}Yêu cầu phi chức năng:}{6}{paragraph.2.1.1.0.2}%
-\contentsline {paragraph}{\numberline {2.1.1.0.3}Yêu cầu chức năng:}{6}{paragraph.2.1.1.0.3}%
-\contentsline {subsection}{\numberline {2.1.2}Đặc trưng sản phẩm}{7}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Đặc trưng sản phẩm}{7}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Đặc trưng sản phẩm}{8}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}Mô hình xây dựng}{8}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Phương án 1: chọn mô hình Scrum}{8}{subsection.2.2.1}%
-\contentsline {paragraph}{\numberline {2.2.1.0.1}Giới thiệu mô hình:}{8}{paragraph.2.2.1.0.1}%
-\contentsline {paragraph}{\numberline {2.2.1.0.2}Ưu điểm:}{8}{paragraph.2.2.1.0.2}%
-\contentsline {paragraph}{\numberline {2.2.1.0.3}Nhược điểm:}{8}{paragraph.2.2.1.0.3}%
-\contentsline {subsection}{\numberline {2.2.2}Phương án 2: mô hình thác nước (Waterfall)}{9}{subsection.2.2.2}%
-\contentsline {paragraph}{\numberline {2.2.2.0.1}Giới thiệu mô hình:}{9}{paragraph.2.2.2.0.1}%
-\contentsline {paragraph}{\numberline {2.2.2.0.2}Ưu điểm:}{9}{paragraph.2.2.2.0.2}%
-\contentsline {paragraph}{\numberline {2.2.2.0.3}Nhược điểm:}{9}{paragraph.2.2.2.0.3}%
-\contentsline {subsection}{\numberline {2.2.3}Kết luận về phương án lựa chọn}{9}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Phạm vi công việc dự án}{10}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Lịch trình dự án}{11}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Khảo sát}{11}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Phân tích và thiết kế}{11}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Xây dựng và phát triển hệ thống}{11}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Xây dựng và phát triển hệ thống sau kiểm thử}{12}{subsection.2.4.4}%
-\contentsline {subsection}{\numberline {2.4.5}Xây dựng và phát triển hệ thống sau triển khai và chuyển giao}{12}{subsection.2.4.5}%
-\contentsline {section}{\numberline {2.5}Chi phí dự án}{12}{section.2.5}%
-\contentsline {chapter}{\numberline {3}Kế hoạch quản lý chi tiết}{13}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Kế hoạch quản lý phạm vi}{13}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Phạm vi công việc}{13}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.1}Phạm vi công việc Khảo sát}{13}{subsubsection.3.1.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.2}Phạm vi công việc Khảo sát}{13}{subsubsection.3.1.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.1.3}Phạm vi công việc Phân tích và thiết kế hệ thống}{14}{subsubsection.3.1.1.3}%
-\contentsline {section}{\numberline {3.2}Kế hoạch quản lý chi phí}{15}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Kế hoạch cho nguồn tài nguyên}{15}{subsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.1}Tài sản cố định}{15}{subsubsection.3.2.1.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.2}Chi phí vận hành}{15}{subsubsection.3.2.1.2}%
-\contentsline {subsubsection}{\numberline {3.2.1.3}Chi phí phần mềm}{15}{subsubsection.3.2.1.3}%
-\contentsline {subsubsection}{\numberline {3.2.1.4}Phúc lợi và hoạt động khác}{15}{subsubsection.3.2.1.4}%
-\contentsline {subsection}{\numberline {3.2.2}Ước lượng chi phí}{15}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Dự toán chi phí}{16}{subsection.3.2.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.1}Tài sản cố định}{16}{subsubsection.3.2.3.1}%
-\contentsline {subsubsection}{\numberline {3.2.3.2}Chi phí vận hành}{16}{subsubsection.3.2.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.3.3}Chi phí phần mềm}{21}{subsubsection.3.2.3.3}%
-\contentsline {subsubsection}{\numberline {3.2.3.4}Phúc lợi và hoạt động khác}{21}{subsubsection.3.2.3.4}%
-\contentsline {subsection}{\numberline {3.2.4}Quản lý chi phí chia theo giai đoạn dự án}{21}{subsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.4.1}Bảng phân bổ chi phí theo giai đoạn dự án}{21}{subsubsection.3.2.4.1}%
-\contentsline {subsubsection}{\numberline {3.2.4.2}Quản lý chi phí chi tiết theo giai đoạn dự án}{21}{subsubsection.3.2.4.2}%
-\contentsline {subsubsection}{\numberline {3.2.4.3}Tổng chi phí dự án}{23}{subsubsection.3.2.4.3}%
-\contentsline {chapter}{\numberline {4}THỰC THI DỰ ÁN}{24}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Thực thi giai đoạn Khảo sát}{24}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Thực thi giai đoạn Phân tích thiết kế hệ thống}{27}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Thực thi giai đoạn Xây dựng và phát triển hệ thống}{30}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau kiểm thử}{33}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau triển khai và chuyển giao}{36}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Kết thúc dự án}{39}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Biên bản kết thúc dự án}{39}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Biên bản thanh lý hợp đồng}{41}{section.5.2}%
-\contentsline {chapter}{Kết luận và hướng phát triển}{44}{table.5.3}%
-\contentsline {chapter}{Tài liệu tham khảo}{46}{chapter*.6}%
-\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{47}{appendix.A}%
+\contentsline {subsubsection}{\numberline {3.1.3.35}Thiết kế giao diện}{73}{subsubsection.3.1.3.35}%
+\contentsline {subsubsection}{\numberline {3.1.3.36}Phân tích và thiết kế hệ thống}{74}{subsubsection.3.1.3.36}%
+\contentsline {subsubsection}{\numberline {3.1.3.37}Lập trình CSDL nhân sự}{75}{subsubsection.3.1.3.37}%
+\contentsline {subsubsection}{\numberline {3.1.3.38}Lập trình CSDL hồ sơ lương}{76}{subsubsection.3.1.3.38}%
+\contentsline {subsubsection}{\numberline {3.1.3.39}Lập trình CSDL phần chấm công}{77}{subsubsection.3.1.3.39}%
+\contentsline {subsubsection}{\numberline {3.1.3.40}Lập trình CSDL thanh toán lương}{78}{subsubsection.3.1.3.40}%
+\contentsline {subsubsection}{\numberline {3.1.3.41}Tổng hợp mã nguồn xây dựng CSDL}{79}{subsubsection.3.1.3.41}%
+\contentsline {subsubsection}{\numberline {3.1.3.42}Xây dựng và phát triển CSDL}{80}{subsubsection.3.1.3.42}%
+\contentsline {subsubsection}{\numberline {3.1.3.43}Lập trình giao diện nhân sự}{81}{subsubsection.3.1.3.43}%
+\contentsline {subsubsection}{\numberline {3.1.3.44}Lập trình giao diện quản lý hồ sơ lương}{82}{subsubsection.3.1.3.44}%
+\contentsline {subsubsection}{\numberline {3.1.3.45}Lập trình giao diện quản lý phần chấm công}{83}{subsubsection.3.1.3.45}%
+\contentsline {subsubsection}{\numberline {3.1.3.46}Lập trình giao diện thanh toán lương}{84}{subsubsection.3.1.3.46}%
+\contentsline {subsubsection}{\numberline {3.1.3.47}Tổng hợp mã nguồn xây dựng Front-end}{85}{subsubsection.3.1.3.47}%
+\contentsline {subsubsection}{\numberline {3.1.3.48}Xây dựng và phát triển Front-end}{86}{subsubsection.3.1.3.48}%
+\contentsline {subsubsection}{\numberline {3.1.3.49}Lập trình chức năng quản lý nhân sự}{87}{subsubsection.3.1.3.49}%
+\contentsline {subsubsection}{\numberline {3.1.3.50}Lập trình chức năng quản lý hồ sơ lương}{88}{subsubsection.3.1.3.50}%
+\contentsline {subsubsection}{\numberline {3.1.3.51}Lập trình chức năng quản lý phần chấm công}{89}{subsubsection.3.1.3.51}%
+\contentsline {subsubsection}{\numberline {3.1.3.52}Lập trình chức năng thanh toán lương}{90}{subsubsection.3.1.3.52}%
+\contentsline {subsubsection}{\numberline {3.1.3.53}Tổng hợp mã nguồn xây dựng Back-end}{91}{subsubsection.3.1.3.53}%
+\contentsline {subsubsection}{\numberline {3.1.3.54}Xây dựng và phát triển Back-end}{92}{subsubsection.3.1.3.54}%
+\contentsline {subsubsection}{\numberline {3.1.3.55}Tích hợp mã nguồn đa tầng}{93}{subsubsection.3.1.3.55}%
+\contentsline {subsubsection}{\numberline {3.1.3.56}Xây dựng và phát triển hệ thống}{94}{subsubsection.3.1.3.56}%
+\contentsline {subsubsection}{\numberline {3.1.3.57}Viết testcase}{95}{subsubsection.3.1.3.57}%
+\contentsline {subsubsection}{\numberline {3.1.3.58}Chạy testcase}{96}{subsubsection.3.1.3.58}%
+\contentsline {subsubsection}{\numberline {3.1.3.59}Kiểm tra và sửa lỗi}{97}{subsubsection.3.1.3.59}%
+\contentsline {subsubsection}{\numberline {3.1.3.60}Lập hồ sơ kiểm thử}{98}{subsubsection.3.1.3.60}%
+\contentsline {subsubsection}{\numberline {3.1.3.61}Hồ sơ kiểm thử}{99}{subsubsection.3.1.3.61}%
+\contentsline {subsubsection}{\numberline {3.1.3.62}Phần mềm sau kiểm thử}{100}{subsubsection.3.1.3.62}%
+\contentsline {subsubsection}{\numberline {3.1.3.63}Viết tài liệu hướng dẫn sử dụng}{101}{subsubsection.3.1.3.63}%
+\contentsline {subsubsection}{\numberline {3.1.3.64}Bàn giao và cài đặt}{102}{subsubsection.3.1.3.64}%
+\contentsline {subsubsection}{\numberline {3.1.3.65}Đào tạo sử dụng}{103}{subsubsection.3.1.3.65}%
+\contentsline {subsubsection}{\numberline {3.1.3.66}Lập hồ sơ triển khai và chuyển giao}{104}{subsubsection.3.1.3.66}%
+\contentsline {subsubsection}{\numberline {3.1.3.67}Hồ sơ triển khai và chuyển giao}{105}{subsubsection.3.1.3.67}%
+\contentsline {subsubsection}{\numberline {3.1.3.68}Phần mềm sau chuyển giao}{106}{subsubsection.3.1.3.68}%
+\contentsline {section}{\numberline {3.2}Kế hoạch quản lý thời gian}{107}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Bảng phụ thuộc công việc và quan hệ thời gian}{107}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Sơ đồ AOA và AON}{109}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Sơ đồ AOA}{109}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Sơ đồ AON}{110}{subsubsection.3.2.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Sơ đồ Gantt}{111}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Tổng kết kế hoạch quản lý thời gian}{111}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Kế hoạch quản lý chi phí}{116}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Kế hoạch cho nguồn tài nguyên}{116}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}Tài sản cố định}{116}{subsubsection.3.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.2}Chi phí vận hành}{116}{subsubsection.3.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.3.1.3}Chi phí phần mềm}{116}{subsubsection.3.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.3.1.4}Phúc lợi và hoạt động khác}{116}{subsubsection.3.3.1.4}%
+\contentsline {subsection}{\numberline {3.3.2}Ước lượng chi phí}{116}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Dự toán chi phí}{116}{subsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3.1}Tài sản cố định}{116}{subsubsection.3.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.3.2}Chi phí vận hành}{117}{subsubsection.3.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3.3}Chi phí phần mềm}{122}{subsubsection.3.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3.4}Phúc lợi và hoạt động khác}{122}{subsubsection.3.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.4}Quản lý chi phí chia theo giai đoạn dự án}{122}{subsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.4.1}Bảng phân bổ chi phí theo giai đoạn dự án}{122}{subsubsection.3.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.3.4.2}Quản lý chi phí chi tiết theo giai đoạn dự án}{122}{subsubsection.3.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.3.4.3}Tổng chi phí dự án}{124}{subsubsection.3.3.4.3}%
+\contentsline {chapter}{\numberline {4}THỰC THI DỰ ÁN}{125}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Thực thi giai đoạn Khảo sát}{125}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Thực thi giai đoạn Phân tích thiết kế hệ thống}{128}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Thực thi giai đoạn Xây dựng và phát triển hệ thống}{131}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau kiểm thử}{134}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau triển khai và chuyển giao}{137}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Kết thúc dự án}{140}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Biên bản kết thúc dự án}{140}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Biên bản thanh lý hợp đồng}{142}{section.5.2}%
+\contentsline {chapter}{Kết luận và hướng phát triển}{145}{table.5.3}%
+\contentsline {chapter}{Tài liệu tham khảo}{147}{chapter*.5}%
