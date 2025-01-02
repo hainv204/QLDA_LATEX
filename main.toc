@@ -84,7 +84,9 @@
 \contentsline {section}{\numberline {4.3}Thực thi giai đoạn Xây dựng và phát triển hệ thống}{30}{section.4.3}%
 \contentsline {section}{\numberline {4.4}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau kiểm thử}{33}{section.4.4}%
 \contentsline {section}{\numberline {4.5}Thực thi giai đoạn Xây dựng và phát triển hệ thống sau triển khai và chuyển giao}{36}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Trích dẫn tài liệu}{39}{chapter.5}%
-\contentsline {chapter}{Danh mục công trình của tác giả}{40}{chapter.5}%
-\contentsline {chapter}{Tài liệu tham khảo}{41}{Item.19}%
-\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{42}{appendix.A}%
+\contentsline {chapter}{\numberline {5}Kết thúc dự án}{39}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Biên bản kết thúc dự án}{39}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Biên bản thanh lý hợp đồng}{41}{section.5.2}%
+\contentsline {chapter}{Kết luận và hướng phát triển}{44}{table.5.3}%
+\contentsline {chapter}{Tài liệu tham khảo}{46}{chapter*.6}%
+\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{47}{appendix.A}%
