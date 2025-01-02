@@ -32,12 +32,9 @@
 \contentsline {chapter}{\numberline {2}Kế hoạch tổng thể (BPP)}{6}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Mô tả sản phẩm}{6}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Quy định sản phẩm}{6}{subsection.2.1.1}%
-\contentsline {paragraph}{\numberline {2.1.1.0.1}Sản phẩm:}{6}{paragraph.2.1.1.0.1}%
-\contentsline {paragraph}{\numberline {2.1.1.0.2}Yêu cầu phi chức năng:}{6}{paragraph.2.1.1.0.2}%
-\contentsline {paragraph}{\numberline {2.1.1.0.3}Yêu cầu chức năng:}{6}{paragraph.2.1.1.0.3}%
 \contentsline {subsection}{\numberline {2.1.2}Đặc trưng sản phẩm}{7}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Đặc trưng sản phẩm}{7}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Đặc trưng sản phẩm}{8}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.3}Actors hệ thống}{7}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Usecase tổng quát}{8}{subsection.2.1.4}%
 \contentsline {section}{\numberline {2.2}Mô hình xây dựng}{8}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Phương án 1: chọn mô hình Scrum}{8}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Phương án 2: mô hình thác nước (Waterfall)}{9}{subsection.2.2.2}%
