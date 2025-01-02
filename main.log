@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.1)  2 JAN 2025 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.1)  2 JAN 2025 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1048,7 +1048,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (Title/title.tex
-<images/Logo-DH-Thuy-Loi.png, id=257, 1204.5pt x 1002.74625pt>
+<images/Logo-DH-Thuy-Loi.png, id=281, 1204.5pt x 1002.74625pt>
 File: images/Logo-DH-Thuy-Loi.png Graphic file (type png)
 <use images/Logo-DH-Thuy-Loi.png>
 Package pdftex.def Info: images/Logo-DH-Thuy-Loi.png  used on input line 7.
@@ -1155,36 +1155,27 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 
 ]
-<images/usecase.png, id=394, 823.57687pt x 491.58656pt>
+<images/usecase.png, id=442, 823.57687pt x 491.58656pt>
 File: images/usecase.png Graphic file (type png)
 <use images/usecase.png>
 Package pdftex.def Info: images/usecase.png  used on input line 46.
 (pdftex.def)             Requested size: 441.01773pt x 263.23999pt.
- [7]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 53.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 69.
-
-[8
+ [7] [8
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.71     \item M
-                ô hình Thác Nước là quy trình phát triển phần m... <./images/usecase.png>]
-<images/waterfall.png, id=403, 567.62062pt x 490.83376pt>
+l.70     \item \textbf
+                      {Ưu điểm:} <./images/usecase.png>]
+<images/waterfall.png, id=451, 567.62062pt x 490.83376pt>
 File: images/waterfall.png Graphic file (type png)
 <use images/waterfall.png>
-Package pdftex.def Info: images/waterfall.png  used on input line 90.
+Package pdftex.def Info: images/waterfall.png  used on input line 88.
 (pdftex.def)             Requested size: 441.01773pt x 381.37335pt.
  [9] [10
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.119     \item \textbf
+l.117     \item \textbf
                        {Công việc:} <./images/waterfall.png>] [11]) [12]
 \openout2 = `Chapter3/chapter3.aux'.
 
@@ -1195,10 +1186,125 @@ Chương 3.
 
 
 
-] [14]) [15]
+] [14] [15]
+<images/sodophanratongquat.png, id=481, 1143.52219pt x 409.53pt>
+File: images/sodophanratongquat.png Graphic file (type png)
+<use images/sodophanratongquat.png>
+Package pdftex.def Info: images/sodophanratongquat.png  used on input line 163.
+(pdftex.def)             Requested size: 441.01773pt x 157.94136pt.
+<images/hskhaosat.png, id=482, 566.115pt x 346.29375pt>
+File: images/hskhaosat.png Graphic file (type png)
+<use images/hskhaosat.png>
+Package pdftex.def Info: images/hskhaosat.png  used on input line 168.
+(pdftex.def)             Requested size: 441.01773pt x 269.78041pt.
+<images/hspttk.png, id=483, 804.00375pt x 404.26031pt>
+File: images/hspttk.png Graphic file (type png)
+<use images/hspttk.png>
+Package pdftex.def Info: images/hspttk.png  used on input line 173.
+(pdftex.def)             Requested size: 441.01773pt x 221.74551pt.
+ [16
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.175 \end{figure}
+                   <./images/sodophanratongquat.png>]
+<images/pmquanlyns-tl.png, id=488, 643.6547pt x 400.49625pt>
+File: images/pmquanlyns-tl.png Graphic file (type png)
+<use images/pmquanlyns-tl.png>
+Package pdftex.def Info: images/pmquanlyns-tl.png  used on input line 178.
+(pdftex.def)             Requested size: 441.01773pt x 274.41772pt.
+<images/pmsaukiemthu.png, id=489, 547.2947pt x 213.04594pt>
+File: images/pmsaukiemthu.png Graphic file (type png)
+<use images/pmsaukiemthu.png>
+Package pdftex.def Info: images/pmsaukiemthu.png  used on input line 183.
+(pdftex.def)             Requested size: 441.01773pt x 171.67879pt.
+ [17
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.185 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.185 \end{figure}
+                   <./images/hskhaosat.png> <./images/hspttk.png>]
+<images/pmsautrienkhai.png, id=495, 659.46375pt x 271.0125pt>
+File: images/pmsautrienkhai.png Graphic file (type png)
+<use images/pmsautrienkhai.png>
+Package pdftex.def Info: images/pmsautrienkhai.png  used on input line 188.
+(pdftex.def)             Requested size: 441.01773pt x 181.2466pt.
+ [18
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.191 ...ction{Biên bản phạm vi công việc}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.191 ...ction{Biên bản phạm vi công việc}
+                                                   <./images/pmquanlyns-tl.png> <./images/pmsaukiemthu.png>]
+<images/aoa.png, id=500, 1230.09563pt x 468.24937pt>
+File: images/aoa.png Graphic file (type png)
+<use images/aoa.png>
+Package pdftex.def Info: images/aoa.png  used on input line 201.
+(pdftex.def)             Requested size: 441.01773pt x 167.87659pt.
+<images/aon.png, id=501, 1078.0275pt x 548.0475pt>
+File: images/aon.png Graphic file (type png)
+<use images/aon.png>
+Package pdftex.def Info: images/aon.png  used on input line 207.
+(pdftex.def)             Requested size: 441.01773pt x 224.20753pt.
+ [19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.210 \subsection{Sơ đồ Gantt}
+                                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.210 \subsection{Sơ đồ Gantt}
+                                   <./images/pmsautrienkhai.png> <./images/aoa.png>]
+<images/gantt1.png, id=506, 1389.69188pt x 199.49532pt>
+File: images/gantt1.png Graphic file (type png)
+<use images/gantt1.png>
+Package pdftex.def Info: images/gantt1.png  used on input line 213.
+(pdftex.def)             Requested size: 441.01773pt x 63.30708pt.
+<images/gantt2.png, id=507, 1385.175pt x 449.42906pt>
+File: images/gantt2.png Graphic file (type png)
+<use images/gantt2.png>
+Package pdftex.def Info: images/gantt2.png  used on input line 214.
+(pdftex.def)             Requested size: 441.01773pt x 143.08646pt.
+<images/gantt3.png, id=508, 1385.175pt x 331.2375pt>
+File: images/gantt3.png Graphic file (type png)
+<use images/gantt3.png>
+Package pdftex.def Info: images/gantt3.png  used on input line 215.
+(pdftex.def)             Requested size: 441.01773pt x 105.45735pt.
+<images/gantt4.png, id=509, 1386.68062pt x 220.57407pt>
+File: images/gantt4.png Graphic file (type png)
+<use images/gantt4.png>
+Package pdftex.def Info: images/gantt4.png  used on input line 216.
+(pdftex.def)             Requested size: 441.01773pt x 70.15096pt.
+<images/gantt_tv.png, id=510, 354.57469pt x 89.58469pt>
+File: images/gantt_tv.png Graphic file (type png)
+<use images/gantt_tv.png>
+Package pdftex.def Info: images/gantt_tv.png  used on input line 221.
+(pdftex.def)             Requested size: 441.01773pt x 111.42831pt.
+ [20
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.222 \end{figure}
+                   <./images/aon.png>]) [21
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.155 \include{Chapter3/chapter3}
+                                  <./images/gantt1.png> <./images/gantt2.png> <./images/gantt3.png> <./images/gantt4.png> <./images/gantt_tv.png>]
 \openout2 = `Appendix/publication.aux'.
 
- (Appendix/publication.tex) [16
+ (Appendix/publication.tex) [22
 
 
 
@@ -1207,7 +1313,7 @@ Chương 3.
 
 LaTeX Warning: Empty bibliography on input line 174.
 
-[17
+[23
 
 
 
@@ -1216,7 +1322,7 @@ LaTeX Warning: Empty bibliography on input line 174.
 
  (Appendix/appendix1.tex
 Phụ lục A.
-) [18
+) [24
 
 
 ] (main.aux (Appendix/adviser.aux) (Appendix/thanks.aux) (Appendix/tomtat.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux) (Appendix/publication.aux) (Appendix/appendix1.aux))
@@ -1229,23 +1335,23 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 55CBEE645F44F71366AAB68B1E55A95E;12937.
+(rerunfilecheck)             Checksum: 49FDC95D12C0766B69392787AE2E4994;14814.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30708 strings out of 474486
- 582719 string characters out of 5739472
+ 30826 strings out of 474486
+ 585454 string characters out of 5739472
  1940542 words of memory out of 5000000
- 52381 multiletter control sequences out of 15000+600000
+ 52478 multiletter control sequences out of 15000+600000
  569418 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,10n,93p,1920b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\NGUYEN VAN HAI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on main.pdf (26 pages, 727870 bytes).
+Output written on main.pdf (32 pages, 1219003 bytes).
 PDF statistics:
- 499 PDF objects out of 1000 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
- 532 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 590 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
+ 645 words of extra memory for PDF output out of 10000 (max. 10000000)
 
