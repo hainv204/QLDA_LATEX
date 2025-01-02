@@ -1,54 +1,111 @@
-\chapter{Thuật toán, mã nguồn}
+\chapter{THỰC THI DỰ ÁN}
 \label{Chapter4}
+\section{Thực thi giai đoạn Khảo sát}
 
-\section{Thuật toán, mã giả}
-Để soạn thảo thuật toán hoặc mã giả trong LaTeX, bạn có thể sử dụng package \textit{algorithm}:
-\begin{lstlisting}
-\usepackage{algorithm}
-\end{lstlisting}
+\begin{longtable}{|p{\textwidth}|}
+    \hline
+    \begin{minipage}{\textwidth}
+        \begin{center}
+            \Large\textbf{BIÊN BẢN NGHIỆM THU CÔNG VIỆC KHẢO SÁT}
+        \end{center}
+        \vspace{0.1cm}
+        \noindent\textbf{TÊN CÔNG VIỆC:} Khảo sát \\
 
-Có thể chèn thuật toán/mã giả như sau:
+        \noindent\textbf{Ngày bắt đầu:} 24/11/2024 \\
+        \textbf{Ngày kết thúc:} 28/11/2024 \\
+        \textbf{Người quản lý:} Hoàng Thu Phương \\
 
-\begin{algorithm}
-\caption{An algorithm with caption}\label{alg:cap}
-\begin{algorithmic}[1]
-\Require $n \geq 0$
-\Ensure $y = x^n$
-\State $y \gets 1$
-\State $X \gets x$
-\State $N \gets n$
-\While{$N \neq 0$}
-\If{$N$ is even}
-    \State $X \gets X \times X$
-    \State $N \gets \frac{N}{2}$  \Comment{This is a comment}
-\ElsIf{$N$ is odd}
-    \State $y \gets y \times X$
-    \State $N \gets N - 1$
-\EndIf
-\EndWhile
-\end{algorithmic}
-\end{algorithm}
+        \noindent\rule{\textwidth}{0.4pt} \\
 
-Lưu ý rằng tên lệnh do 'algpseudocode' cung cấp thường được viết hoa chữ cái đầu, ví dụ: $\backslash${\tt{State}}, $\backslash${\tt{While}}, $\backslash${\tt{EndWhile}}.
+        \noindent\textbf{Ngày nghiệm thu:} 28/11/2024 \\
 
+        \noindent\rule{\textwidth}{0.4pt} \\
 
-\section{Mã nguồn}
-Để chèn mã nguồn, cần dùng package \textit{listings}:
+        \noindent\textbf{Sản phẩm công việc đã được nghiệm thu:}
+        \begin{enumerate}
+            \item Báo cáo khảo sát chi tiết bao gồm:
+                  \begin{itemize}
+                      \item Các thông tin về đối tượng khảo sát.
+                      \item Phương pháp khảo sát.
+                      \item Kết quả khảo sát.
+                  \end{itemize}
+            \item Bảng tổng hợp dữ liệu khảo sát.
+            \item Tài liệu hướng dẫn sử dụng kết quả khảo sát cho các mục đích nghiên cứu và phát triển.
+        \end{enumerate}
+        \noindent\textbf{Tiêu chí nghiệm thu:}
+        \begin{itemize}
+            \item Báo cáo khảo sát chi tiết, rõ ràng, chính xác.
+            \item Bảng tổng hợp dữ liệu đầy đủ, dễ hiểu.
+            \item Tài liệu hướng dẫn rõ ràng, áp dụng tốt cho nghiên cứu và phát triển.
+        \end{itemize}
+    \end{minipage} \\
+    \hline
+\end{longtable}
 
-\begin{lstlisting}
-\usepackage{listings}
-\end{lstlisting}
+\begin{longtable}{|p{\textwidth}|}
+    \hline
+    \begin{minipage}{\textwidth}
+        \noindent\textbf{Quá trình thực hiện:}
+        \begin{enumerate}
+            \item Xác định mục tiêu và đối tượng khảo sát:
+                  \begin{itemize}
+                      \item Làm rõ mục đích khảo sát và nhóm đối tượng cần khảo sát.
+                  \end{itemize}
+            \item Gặp gỡ khách hàng và tiến hành phỏng vấn:
+                  \begin{itemize}
+                      \item Thu thập thông tin trực tiếp từ khách hàng qua các cuộc họp và phỏng vấn.
+                  \end{itemize}
+            \item Phân loại thông tin:
+                  \begin{itemize}
+                      \item Thành yêu cầu chức năng.
+                      \item Thành yêu cầu phi chức năng (hiệu suất, bảo mật, khả năng mở rộng).
+                  \end{itemize}
+            \item Xác định quy trình nghiệp vụ:
+                  \begin{itemize}
+                      \item Phân tích, mô hình hóa và mô tả chi tiết quy trình nghiệp vụ.
+                  \end{itemize}
+            \item Tổng hợp và lập hồ sơ khảo sát:
+                  \begin{itemize}
+                      \item Hệ thống hóa thông tin, xây dựng hồ sơ khảo sát chi tiết.
+                  \end{itemize}
+        \end{enumerate}
 
-Mã nguồn có thể được chèn trực tiếp như sau:
+        \noindent\textbf{Thời gian thực hiện:} 5 ngày \\
 
-\begin{lstlisting}[language=C++]
-cout << "Hello, World!" << endl;
-\end{lstlisting}
-hoặc chèn thông qua tập tin chứa mã nguồn trong thư mục $SourceCode$ như sau:
+        \noindent\textbf{Nguồn lực sử dụng:}
+        \begin{itemize}
+            \item \textbf{Tài liệu:} Từ các cuộc họp và phỏng vấn khách hàng.
+            \item \textbf{Công cụ:} Phần mềm xử lý văn bản, bảng tính (Excel), phần mềm vẽ sơ đồ quy trình.
+            \item \textbf{Nhân sự:}
+                  \begin{itemize}
+                      \item Quang: Khảo sát, ghi nhận thông tin.
+                      \item Phong: Khảo sát, ghi nhận thông tin.
+                      \item Phương: Tổng hợp và phân tích dữ liệu, lập hồ sơ.
+                      \item Phát: Tổng hợp và phân tích dữ liệu, lập hồ sơ.
+                  \end{itemize}
+        \end{itemize}
 
-\lstinputlisting[language=Python]{SourceCode/hello.py}
+        \noindent\textbf{Chi phí:} 4.400.000 VNĐ \\
+    \end{minipage} \\
+    \hline
+\end{longtable}
 
+\begin{longtable}{|p{\textwidth}|}
+    \hline
+    \begin{minipage}{\textwidth}
+        \noindent\textbf{Kết quả nghiệm thu:}
+        \begin{itemize}
+            \item Công việc đã hoàn thành theo đúng yêu cầu và trong thời gian quy định.
+            \item Tài liệu và sản phẩm bàn giao đáp ứng đầy đủ tiêu chí chất lượng.
+            \item Khách hàng xác nhận hài lòng với kết quả và thanh toán chi phí thực hiện.
+        \end{itemize}
 
+        \vspace{0.5cm}
+        \begin{flushleft}
+            \hspace{8cm} \textbf{NGƯỜI THỰC HIỆN} \\ \vspace{1cm}
+            \hspace{8.8cm} (Ký tên, họ tên)
+        \end{flushleft}
 
-
-
+    \end{minipage} \\
+    \hline
+\end{longtable}

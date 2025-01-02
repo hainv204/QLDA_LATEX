@@ -1,7 +1,7 @@
 \contentsline {chapter}{Ý kiến Giảng viên hướng dẫn}{i}{table.0.1}%
 \contentsline {chapter}{Lời cảm ơn}{iii}{chapter*.1}%
 \contentsline {chapter}{Mục lục}{iv}{chapter*.2}%
-\contentsline {chapter}{Tóm tắt}{vii}{chapter*.5}%
+\contentsline {chapter}{Tóm tắt}{viii}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}Khởi động dự án}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Bối cảnh và Giải pháp}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Bối cảnh Vinhome và Vấn đề Hiện tại}{1}{subsection.1.1.1}%
@@ -62,6 +62,22 @@
 \contentsline {subsubsection}{\numberline {3.1.1.1}Phạm vi công việc Khảo sát}{13}{subsubsection.3.1.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.1.2}Phạm vi công việc Khảo sát}{13}{subsubsection.3.1.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.1.3}Phạm vi công việc Phân tích và thiết kế hệ thống}{14}{subsubsection.3.1.1.3}%
-\contentsline {chapter}{Danh mục công trình của tác giả}{16}{subsubsection.3.1.1.3}%
-\contentsline {chapter}{Tài liệu tham khảo}{17}{Item.1}%
-\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{18}{appendix.A}%
+\contentsline {section}{\numberline {3.2}Kế hoạch quản lý chi phí}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Kế hoạch cho nguồn tài nguyên}{15}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Tài sản cố định}{15}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Chi phí vận hành}{15}{subsubsection.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.1.3}Chi phí phần mềm}{15}{subsubsection.3.2.1.3}%
+\contentsline {subsubsection}{\numberline {3.2.1.4}Phúc lợi và hoạt động khác}{15}{subsubsection.3.2.1.4}%
+\contentsline {subsection}{\numberline {3.2.2}Ước lượng chi phí}{15}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Dự toán chi phí}{16}{subsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.1}Tài sản cố định}{16}{subsubsection.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.3.2}Chi phí vận hành}{16}{subsubsection.3.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.3.3}Chi phí phần mềm}{21}{subsubsection.3.2.3.3}%
+\contentsline {subsubsection}{\numberline {3.2.3.4}Phúc lợi và hoạt động khác}{21}{subsubsection.3.2.3.4}%
+\contentsline {subsection}{\numberline {3.2.4}Quản lý chi phí chia theo giai đoạn dự án}{21}{subsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.4.1}Bảng phân bổ chi phí theo giai đoạn dự án}{21}{subsubsection.3.2.4.1}%
+\contentsline {subsubsection}{\numberline {3.2.4.2}Quản lý chi phí chi tiết theo giai đoạn dự án}{21}{subsubsection.3.2.4.2}%
+\contentsline {subsubsection}{\numberline {3.2.4.3}Tổng chi phí dự án}{23}{subsubsection.3.2.4.3}%
+\contentsline {chapter}{Danh mục công trình của tác giả}{24}{subsubsection.3.2.4.3}%
+\contentsline {chapter}{Tài liệu tham khảo}{25}{Item.1}%
+\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{26}{appendix.A}%
