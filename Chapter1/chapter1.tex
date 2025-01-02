@@ -21,54 +21,216 @@ Vinhome hướng đến một Hệ thống Thông tin Quản lý Nhân sự - Ti
 Để thực hiện giải pháp, Vinhome quyết định thuê Công ty TNHH Software Technologies tư vấn và triển khai dự án, với hy vọng rút ngắn thời gian phát triển, giảm chi phí và đảm bảo chất lượng sản phẩm
 
 \section{Tôn chỉ dự án}
-\begin{center}
-\Large\textbf{TÔN CHỈ DỰ ÁN}\\
-\large\textbf{(PROJECT CHARTER)}
-\end{center}
-% Thân hàm
+% Tôn chỉ làm sau
+% \begin{center}
+% \begin{tabular}{|p{0.35\textwidth}|p{0.55\textwidth}|}
+% \hline
+% \multicolumn{2}{|c|}{
+% \begin{center}
+% \Large\textbf{TÔN CHỈ DỰ ÁN}\\
+% \large\textbf{(PROJECT CHARTER)}
+% \end{center}
+% }
+% \hline
+% \textbf{Tên dự án:} & Xây dựng hệ thống thông tin quản lý nhân sự - tiền lương \\
+% \hline
+% \textbf{Ngày bắt đầu:} & 24/11/2024 \\
+% \hline 
+% \textbf{Ngày kết thúc:} & 22/01/2025 \\
+% \hline
+% \textbf{Tổng thời gian:} & 60 ngày \\
+% \hline
+% \textbf{Bên A - Nhà đầu tư, khách hàng:} & Nguyễn Xuân Sơn (Đại diện) \\
+% \hline
+% \textbf{Bên B - Công ty TNHH Software Technologies:} & Hoàng Thu Phương (Đại diện) \\
+% \hline
+% \textbf{Mục tiêu dự án:} & Tạo ra hệ thống quản lý nhân sự - tiền lương tác nhân sử dụng: nhân viên quản lý; giúp dễ dàng quản lý nhân sự - tiền lương theo cách tự động hóa, hiệu quả, chính xác và thống kê tài chính dễ dàng hơn. \\
+% \hline
+% \textbf{Đối tượng sử dụng:} & Nhân viên quản lý, nhân sự. \\
+% \hline
+% \textbf{Phương án phát triển:} & Mô hình thác nước (Waterfall) \\
+% \hline
+% \multicolumn{2}{|l|}{\textbf{Giả thiết và ràng buộc (Assumptions \& Dependencies):}} \\
+% \hline
+% \multicolumn{2}{|l|}{\textbf{Giả thiết:}} \\
+% \multicolumn{2}{|l|}{
+% \begin{itemize}
+%     \item Các yêu cầu được cung cấp bởi bên A là đầy đủ, chính xác, và không thay đổi lớn trong quá trình thực hiện dự án.
+%     \item Các công cụ, phần mềm và cơ sở hạ tầng kỹ thuật cần thiết để phát triển hệ thống đều sẵn có và hoạt động ổn định.
+%     \item Nhân sự từ hai bên (A và B) hợp tác chặt chẽ và đảm bảo tiến độ triển khai dự án.
+% \end{itemize}} \\
+% \hline
+% \multicolumn{2}{|l|}{\textbf{Ràng buộc:}} \\
+% \multicolumn{2}{|l|}{
+% \begin{itemize}
+%     \item Dự án phải hoàn thành đúng thời hạn như đã thỏa thuận (22/01/2024).
+%     \item Bên A chỉ cung cấp đủ chi phí dự án trong hợp đồng hai bên đã thỏa thuận.
+% \end{itemize}} \\
+% \hline
+% \end{tabular}
+% \end{center}
 
-\begin{center}
-    Hà Nội, ngày …. tháng …. năm 2024 \\
-    \begin{tabular}{c c}
-        \textbf{Bên A} & \textbf{Bên B} \\
-        Nguyễn Xuân Sơn & Hoàng Thu Phương \\
-    \end{tabular}
-\end{center}
+% \begin{center}
+%     Hà Nội, ngày …. tháng …. năm 2024 \\[0.5cm]
+%     \begin{tabular}{c c}
+%         \textbf{Bên A} & \textbf{Bên B} \\
+%         Nguyễn Xuân Sơn & Hoàng Thu Phương \\
+%     \end{tabular}
+% \end{center}
+
 \section{Môi trường dự án}
 \subsection{Môi trường pháp lý}
+\paragraph{A.Các quy định pháp luật cần tuân thủ}
 \begin{itemize}
-    \item Luật Doanh nghiệp 2020
-    \item Luật Lao động
-    \item Luật An toàn Thông tin Mạng
+    \item Luật Doanh nghiệp 2020, số 59/2020/QH14: Các quy định về hoạt động kinh doanh, đăng ký kinh doanh, quyền và nghĩa vụ của doanh nghiệp.
+    \item Luật Lao động và các nghị định hướng dẫn: Quy định về hợp đồng lao động, tiền lương, bảo hiểm, điều kiện làm việc.
+    \item Luật An toàn Thông tin Mạng: Quy định về an toàn, bảo vệ dữ liệu trên môi trường mạng
+    \item Các quy định về bảo vệ dữ liệu cá nhân
+    \item Quy định thuế, chuẩn mực kế toán: Áp dụng chuẩn mực kế toán, chính sách thuế thu nhập cá nhân, thuế doanh nghiệp, chính sách bảo hiểm (BHXH, BHYT, BHTN…) theo quy định nhà nước
 \end{itemize}
 
-\subsection{Môi trường kỹ thuật}
+\paragraph{B. Điều khoản bảo mật và NDA}
 \begin{itemize}
-    \item Cloud Platform: Google Cloud (GCP)
-    \item Công cụ phát triển: VS Code, GitHub
-    \item Công cụ quản lý: Trello, Slack
+    \item Thỏa thuận Bảo mật (NDA): Bên A (chủ dự án) và Bên B (đơn vị thực hiện) cam kết không tiết lộ thông tin mật liên quan đến dự án, dữ liệu nhân sự, dữ liệu tài chính… cho bên thứ ba
+    \item Hạn chế truy cập và phân quyền: ghi nhật ký (log) truy cập, nhằm đảm bảo đúng đối tượng được quyền xem, sửa dữ liệu
+    \item Tuân thủ các quy định bảo mật: yêu cầu/tiêu chuẩn ( ISO 27001, PCI-DSS)
 \end{itemize}
 
-\section{Cơ chế hoạt động}
-\subsection{Thời gian làm việc}
+\paragraph{C.Trách nhiệm và Chế tài vi phạm}
+\subparagraph{Trách nhiệm của các bên:}
 \begin{itemize}
-    \item 8h00 - 17h00, Thứ 2 - Thứ 6
-    \item Có chế độ làm thêm giờ
+    \item \textbf{Bên A:} Cung cấp thông tin dự án, tài liệu nội bộ, môi trường làm việc phù hợp, đồng thời chịu trách nhiệm về tính pháp lý của dữ liệu, thủ tục, giấy phép liên quan.
+    
+    \item \textbf{Bên B:} Thực hiện dự án đúng cam kết về tiến độ, chất lượng, bảo mật.
 \end{itemize}
 
-\section{Mô tả sản phẩm}
-\subsection{Yêu cầu chức năng}
+\subparagraph{Chế tài nếu vi phạm:}
+Nếu để lộ thông tin, sử dụng sai mục đích hoặc không tuân thủ quy định pháp luật, bên vi phạm sẽ chịu trách nhiệm bồi thường thiệt hại (theo nội dung đã thỏa thuận)
+
+\subsection{Môi trường để hoạt động dự án}
+
+\paragraph{A. Môi trường hạ tầng và công nghệ}
 \begin{itemize}
-    \item Quản lý nhân sự
-    \item Chấm công
-    \item Tính lương
-    \item Báo cáo thống kê
+    \item Nền tảng triển khai
+    \item Cloud Platform: \texttt{Google Cloud (GCP)}
+    \item Các dịch vụ sử dụng:
+    \begin{itemize}
+        \item \texttt{Compute Engine}: Tạo và quản lý các máy ảo (VM) phục vụ phát triển và triển khai hệ thống
+        \item \texttt{Cloud SQL}: Lưu trữ cơ sở dữ liệu nhân sự và tiền lương
+        \item \texttt{Cloud Storage}: Lưu trữ tài liệu và tệp tin liên quan đến dự án
+        \item \texttt{Identity and Access Management (IAM)}: Quản lý quyền truy cập, bảo mật tài nguyên
+    \end{itemize}
 \end{itemize}
 
-\subsection{Actors hệ thống}
+\subparagraph{Quy định kết nối mạng:}
 \begin{itemize}
-    \item Nhân viên quản lý
-    \item Máy chấm công
-    \item Hệ thống thanh toán
-    \item Hệ thống kế toán
+    \item Tất cả truy cập nội bộ được thực hiện qua VPN bảo mật của công ty
+    \item Cấu hình Firewall: Giới hạn truy cập chỉ cho các địa chỉ IP nội bộ và các thành viên được ủy quyền
+    \item Sử dụng giao thức HTTPS để đảm bảo truyền dữ liệu an toàn
+\end{itemize}
+
+\subparagraph{Thiết bị, công cụ làm việc:}
+\begin{itemize}
+    \item Thiết bị phần cứng:
+    \begin{itemize}
+        \item Máy tính bàn hoặc laptop cấu hình cao (Intel i5 trở lên, RAM 16GB, ổ SSD)
+        \item Máy chủ phát triển nội bộ (cho môi trường staging hoặc testing)
+    \end{itemize}
+    
+    \item Công cụ phát triển phần mềm:
+    \begin{itemize}
+        \item IDE: \texttt{Visual Studio Code} hoặc \texttt{IntelliJ IDEA}
+        \item Quản lý source code: sử dụng \texttt{GitHub}
+        \item \texttt{Docker}: Tạo và quản lý container hóa môi trường phát triển
+    \end{itemize}
+    
+    \item Công cụ quản lý dự án và làm việc nhóm:
+    \begin{itemize}
+        \item \texttt{Trello}: Theo dõi tiến độ công việc
+        \item \texttt{Slack}: Trao đổi thông tin nhanh trong nhóm
+        \item \texttt{Google Workspace} (Docs, Sheets, Meet): Soạn thảo tài liệu, họp trực tuyến
+    \end{itemize}
+    
+    \item Công cụ kiểm thử:
+    \begin{itemize}
+        \item \texttt{Selenium}: Kiểm thử tự động giao diện
+        \item \texttt{Postman}: Kiểm tra và xác nhận API
+    \end{itemize}
+\end{itemize}
+
+\paragraph{B. Môi trường quản lý và điều hành}
+\begin{itemize}
+    \item Văn phòng, phòng làm việc:
+    \begin{itemize}
+        \item Đội dự án làm việc trực tiếp tại văn phòng, sử dụng cơ sở vật chất, cơ sở hạ tầng của công ty chủ quản
+        \item Quy định về thời gian ra vào, quy trình bảo vệ an ninh
+    \end{itemize}
+    \item Quy chế phối hợp:
+    \begin{itemize}
+        \item Phối hợp với đại diện bên A để có để có sự thống nhất và giải quyết nhanh chóng các vấn đề liên quan đến dự án
+        \item Cần văn bản, mail phê duyệt để thống nhất thay đổi
+    \end{itemize}
+\end{itemize}
+
+\section{Cơ chế hoạt động của dự án}
+\subsection{Thời gian và Lịch làm việc}
+\begin{itemize}
+    \item Làm theo giờ/ngày
+    \item Quy định rõ khung giờ làm việc (8h00 - 17h00), từ thứ Hai đến thứ Sáu
+    \item Nếu làm ngoài giờ (làm thêm, họp cuối tuần) thì có chính sách chi trả chi phí riêng
+\end{itemize}
+\subsection{Chi tiêu tài chính}
+\begin{itemize}
+    \item Kinh phí dự án
+    \item Nguồn ngân sách: bên A ( bên Vinhome sẽ cấp toàn bộ chi phí để thực hiện dự án )
+    \item Phương thức thanh toán: Theo hợp đồng, thanh toán theo từng giai đoạn
+    \item Báo cáo tài chính:
+    \begin{itemize}
+        \item Yêu cầu nộp bảng kê chi tiết chi phí nhân công, chi phí thiết bị
+        \item Hình thức báo cáo: Google docs
+    \end{itemize}
+\end{itemize}
+\subsection{Quy trình báo cáo và giao tiếp}
+\begin{itemize}
+    \item Báo cáo tiến độ
+    \item Tần suất: Sau mỗi giai đoạn
+    \item Hình thức: Gửi email và họp trực tuyến
+    \item Nội dung: Tiến độ so với kế hoạch, khó khăn, rủi ro, đề xuất giải pháp
+    \item Trao đổi trực tiếp:
+    \begin{itemize}
+        \item Đại diện của Vinhome (Project Sponsor) và đại diện của nhà thầu (Project Manager) sẽ trực tiếp làm việc, phản hồi yêu cầu, xử lý vấn đề
+        \item Kênh liên lạc chính (email, điện thoại…) để kịp thời hỗ trợ
+    \end{itemize}
+\end{itemize}
+\subsection{Cung cấp trang thiết bị và Điều kiện làm việc}
+\begin{itemize}
+    \item Phía công ty chủ quản:
+    \begin{itemize}
+        \item Chuẩn bị máy tính cá nhân, phần mềm chuyên dụng
+        \item Đảm bảo đội ngũ nhân sự đáp ứng chuyên môn, có năng lực phù hợp với dự án
+    \end{itemize}
+    \item Phía khách hàng:
+    \begin{itemize}
+        \item Nhân viên nhân sự:
+        \begin{itemize}
+            \item Cung cấp thông tin nhân sự hiện tại, hỗ trợ nhập liệu dữ liệu vào hệ thống mới
+            \item Tham gia vào quá trình kiểm tra và xác nhận dữ liệu sau khi hệ thống được triển khai
+        \end{itemize}
+        \item Nhân viên quản lý:
+        \begin{itemize}
+            \item Tham gia vào quá trình phê duyệt các yêu cầu thay đổi, đảm bảo hệ thống đáp ứng nhu cầu quản lý
+            \item Sử dụng hệ thống để theo dõi và báo cáo chi phí nhân sự, hỗ trợ quyết định quản lý
+        \end{itemize}
+        \item Tài liệu nghiệp vụ:
+        \begin{itemize}
+            \item Cung cấp các tài liệu quy trình làm việc hiện tại, yêu cầu nghiệp vụ cụ thể
+            \item Bao gồm các báo cáo hiện tại, dữ liệu nhân sự, chính sách nội bộ liên quan đến nhân sự và tiền lương
+        \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+\subsection{Họp định kỳ: Họp giai đoạn}
+\begin{itemize}
+    \item Tổng kết những gì đã hoàn thành, đánh giá kết quả, điều chỉnh kế hoạch nếu cần
+    \item Đặc biệt quan trọng ở các cột mốc (milestone) để xác nhận hoàn thành giai đoạn và xem xét tiếp tục hoặc điều chỉnh
 \end{itemize}

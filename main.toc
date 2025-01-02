@@ -1,24 +1,67 @@
 \contentsline {chapter}{Ý kiến Giảng viên hướng dẫn}{i}{table.0.1}%
 \contentsline {chapter}{Lời cảm ơn}{iii}{chapter*.1}%
 \contentsline {chapter}{Mục lục}{iv}{chapter*.2}%
-\contentsline {chapter}{Tóm tắt}{vi}{chapter*.5}%
+\contentsline {chapter}{Tóm tắt}{vii}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}Khởi động dự án}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Bối cảnh và Giải pháp}{1}{section.1.1}%
 \contentsline {subsection}{\numberline {1.1.1}Bối cảnh Vinhome và Vấn đề Hiện tại}{1}{subsection.1.1.1}%
-\contentsline {paragraph}{Hoàn cảnh:}{1}{subsection.1.1.1}%
-\contentsline {paragraph}{Vấn đề nảy sinh:}{1}{subsection.1.1.1}%
+\contentsline {paragraph}{\numberline {1.1.1.0.1}Hoàn cảnh:}{1}{paragraph.1.1.1.0.1}%
+\contentsline {paragraph}{\numberline {1.1.1.0.2}Vấn đề nảy sinh:}{1}{paragraph.1.1.1.0.2}%
 \contentsline {subsection}{\numberline {1.1.2}Giải pháp và quyết định Xác lập dự án}{1}{subsection.1.1.2}%
-\contentsline {paragraph}{Giải pháp mong muốn:}{1}{subsection.1.1.2}%
-\contentsline {paragraph}{Quyết định thuê đơn vị phát triển:}{1}{subsection.1.1.2}%
+\contentsline {paragraph}{\numberline {1.1.2.0.1}Giải pháp mong muốn:}{1}{paragraph.1.1.2.0.1}%
+\contentsline {paragraph}{\numberline {1.1.2.0.2}Quyết định thuê đơn vị phát triển:}{1}{paragraph.1.1.2.0.2}%
 \contentsline {section}{\numberline {1.2}Tôn chỉ dự án}{1}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Môi trường dự án}{2}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Môi trường pháp lý}{2}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Môi trường kỹ thuật}{2}{subsection.1.3.2}%
-\contentsline {section}{\numberline {1.4}Cơ chế hoạt động}{2}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Thời gian làm việc}{2}{subsection.1.4.1}%
-\contentsline {section}{\numberline {1.5}Mô tả sản phẩm}{2}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Yêu cầu chức năng}{2}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Actors hệ thống}{2}{subsection.1.5.2}%
-\contentsline {chapter}{Danh mục công trình của tác giả}{3}{subsection.1.5.2}%
-\contentsline {chapter}{Tài liệu tham khảo}{4}{Item.1}%
-\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{5}{appendix.A}%
+\contentsline {section}{\numberline {1.3}Môi trường dự án}{1}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Môi trường pháp lý}{1}{subsection.1.3.1}%
+\contentsline {paragraph}{\numberline {1.3.1.0.1}A.Các quy định pháp luật cần tuân thủ}{1}{paragraph.1.3.1.0.1}%
+\contentsline {paragraph}{\numberline {1.3.1.0.2}B. Điều khoản bảo mật và NDA}{2}{paragraph.1.3.1.0.2}%
+\contentsline {paragraph}{\numberline {1.3.1.0.3}C.Trách nhiệm và Chế tài vi phạm}{2}{paragraph.1.3.1.0.3}%
+\contentsline {subparagraph}{Trách nhiệm của các bên:}{2}{paragraph.1.3.1.0.3}%
+\contentsline {subparagraph}{Chế tài nếu vi phạm:}{2}{paragraph.1.3.1.0.3}%
+\contentsline {subsection}{\numberline {1.3.2}Môi trường để hoạt động dự án}{2}{subsection.1.3.2}%
+\contentsline {paragraph}{\numberline {1.3.2.0.1}A. Môi trường hạ tầng và công nghệ}{2}{paragraph.1.3.2.0.1}%
+\contentsline {subparagraph}{Quy định kết nối mạng:}{3}{paragraph.1.3.2.0.1}%
+\contentsline {subparagraph}{Thiết bị, công cụ làm việc:}{3}{paragraph.1.3.2.0.1}%
+\contentsline {paragraph}{\numberline {1.3.2.0.2}B. Môi trường quản lý và điều hành}{3}{paragraph.1.3.2.0.2}%
+\contentsline {section}{\numberline {1.4}Cơ chế hoạt động của dự án}{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Thời gian và Lịch làm việc}{4}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Chi tiêu tài chính}{4}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Quy trình báo cáo và giao tiếp}{4}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Cung cấp trang thiết bị và Điều kiện làm việc}{4}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Họp định kỳ: Họp giai đoạn}{5}{subsection.1.4.5}%
+\contentsline {chapter}{\numberline {2}Kế hoạch tổng thể (BPP)}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mô tả sản phẩm}{6}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Quy định sản phẩm}{6}{subsection.2.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.0.1}Sản phẩm:}{6}{paragraph.2.1.1.0.1}%
+\contentsline {paragraph}{\numberline {2.1.1.0.2}Yêu cầu phi chức năng:}{6}{paragraph.2.1.1.0.2}%
+\contentsline {paragraph}{\numberline {2.1.1.0.3}Yêu cầu chức năng:}{6}{paragraph.2.1.1.0.3}%
+\contentsline {subsection}{\numberline {2.1.2}Đặc trưng sản phẩm}{7}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Đặc trưng sản phẩm}{7}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Đặc trưng sản phẩm}{8}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Mô hình xây dựng}{8}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Phương án 1: chọn mô hình Scrum}{8}{subsection.2.2.1}%
+\contentsline {paragraph}{\numberline {2.2.1.0.1}Giới thiệu mô hình:}{8}{paragraph.2.2.1.0.1}%
+\contentsline {paragraph}{\numberline {2.2.1.0.2}Ưu điểm:}{8}{paragraph.2.2.1.0.2}%
+\contentsline {paragraph}{\numberline {2.2.1.0.3}Nhược điểm:}{8}{paragraph.2.2.1.0.3}%
+\contentsline {subsection}{\numberline {2.2.2}Phương án 2: mô hình thác nước (Waterfall)}{9}{subsection.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.0.1}Giới thiệu mô hình:}{9}{paragraph.2.2.2.0.1}%
+\contentsline {paragraph}{\numberline {2.2.2.0.2}Ưu điểm:}{9}{paragraph.2.2.2.0.2}%
+\contentsline {paragraph}{\numberline {2.2.2.0.3}Nhược điểm:}{9}{paragraph.2.2.2.0.3}%
+\contentsline {subsection}{\numberline {2.2.3}Kết luận về phương án lựa chọn}{9}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Phạm vi công việc dự án}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Lịch trình dự án}{11}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Khảo sát}{11}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Phân tích và thiết kế}{11}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Xây dựng và phát triển hệ thống}{11}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Xây dựng và phát triển hệ thống sau kiểm thử}{12}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Xây dựng và phát triển hệ thống sau triển khai và chuyển giao}{12}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2.5}Chi phí dự án}{12}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Kế hoạch quản lý chi tiết}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Kế hoạch quản lý phạm vi}{13}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Phạm vi công việc}{13}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Phạm vi công việc Khảo sát}{13}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}Phạm vi công việc Khảo sát}{13}{subsubsection.3.1.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}Phạm vi công việc Phân tích và thiết kế hệ thống}{14}{subsubsection.3.1.1.3}%
+\contentsline {chapter}{Danh mục công trình của tác giả}{16}{subsubsection.3.1.1.3}%
+\contentsline {chapter}{Tài liệu tham khảo}{17}{Item.1}%
+\contentsline {chapter}{\numberline {A}Tên phụ lục 1}{18}{appendix.A}%

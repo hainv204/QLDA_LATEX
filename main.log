@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.1)  1 JAN 2025 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.1)  2 JAN 2025 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -938,33 +938,37 @@ File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(main.aux (Appendix/adviser.aux) (Appendix/thanks.aux) (Appendix/tomtat.aux) (Chapter1/chapter1.aux) (Appendix/publication.aux) (Appendix/appendix1.aux
+(main.aux (Appendix/adviser.aux) (Appendix/thanks.aux) (Appendix/tomtat.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux
+
+LaTeX Warning: Label `fig:usecase-tong-quat' multiply defined.
+
+) (Chapter3/chapter3.aux) (Appendix/publication.aux) (Appendix/appendix1.aux
 
 LaTeX Warning: Label `Appendix1' multiply defined.
 
 ))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 124.
-LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
@@ -981,9 +985,9 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 124.
-Package biblatex Info: Reference segment=0 on input line 124.
-Package hyperref Info: Link coloring OFF on input line 124.
+Package biblatex Info: Reference section=0 on input line 125.
+Package biblatex Info: Reference segment=0 on input line 125.
+Package hyperref Info: Link coloring OFF on input line 125.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -1044,7 +1048,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (Title/title.tex
-<images/Logo-DH-Thuy-Loi.png, id=85, 1204.5pt x 1002.74625pt>
+<images/Logo-DH-Thuy-Loi.png, id=257, 1204.5pt x 1002.74625pt>
 File: images/Logo-DH-Thuy-Loi.png Graphic file (type png)
 <use images/Logo-DH-Thuy-Loi.png>
 Package pdftex.def Info: images/Logo-DH-Thuy-Loi.png  used on input line 7.
@@ -1060,7 +1064,7 @@ Overfull \hbox (14.85103pt too wide) in paragraph at lines 59--68
 pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.131 \include{Appendix/adviser}
+l.132 \include{Appendix/adviser}
                                 ]
 \openout2 = `Appendix/adviser.aux'.
 
@@ -1075,25 +1079,25 @@ l.131 \include{Appendix/adviser}
 
 
 
-] (main.toc)
+] (main.toc [4
+
+
+
+])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [4
-
-
-
-] (main.lof)
+ [5] (main.lof)
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [5
+ [6
 
 ] (main.lot)
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
- [6
+ [7
 
 ]
 \openout2 = `Appendix/tomtat.aux'.
@@ -1105,34 +1109,105 @@ No file Appendix/tomtat.tex.
 (Chapter1/chapter1.tex
 Chương 1.
 
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 18.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 83.
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41     \item L
-                uật Lao động [1
+l.89     \item Q
+                uy định thuế, chuẩn mực kế toán: Áp dụng chu�... [1
 
 
-
-
-
-
-]) [2]
-\openout2 = `Appendix/publication.aux'.
-
- (Appendix/publication.tex
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 6.
- (C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
-File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)) [3
 
 
 
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 173.
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 112.
 
-[4
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 115.
+(C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [2] [3] [4]) [5]
+\openout2 = `Chapter2/chapter2.aux'.
+
+ (Chapter2/chapter2.tex
+Chương 2.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6.
+
+[6
+
+
+
+
+]
+<images/usecase.png, id=394, 823.57687pt x 491.58656pt>
+File: images/usecase.png Graphic file (type png)
+<use images/usecase.png>
+Package pdftex.def Info: images/usecase.png  used on input line 46.
+(pdftex.def)             Requested size: 441.01773pt x 263.23999pt.
+ [7]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 53.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 69.
+
+[8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.71     \item M
+                ô hình Thác Nước là quy trình phát triển phần m... <./images/usecase.png>]
+<images/waterfall.png, id=403, 567.62062pt x 490.83376pt>
+File: images/waterfall.png Graphic file (type png)
+<use images/waterfall.png>
+Package pdftex.def Info: images/waterfall.png  used on input line 90.
+(pdftex.def)             Requested size: 441.01773pt x 381.37335pt.
+ [9] [10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.119     \item \textbf
+                       {Công việc:} <./images/waterfall.png>] [11]) [12]
+\openout2 = `Chapter3/chapter3.aux'.
+
+ (Chapter3/chapter3.tex
+Chương 3.
+[13
+
+
+
+
+] [14]) [15]
+\openout2 = `Appendix/publication.aux'.
+
+ (Appendix/publication.tex) [16
+
+
+
+
+]
+
+LaTeX Warning: Empty bibliography on input line 174.
+
+[17
 
 
 
@@ -1141,10 +1216,10 @@ LaTeX Warning: Empty bibliography on input line 173.
 
  (Appendix/appendix1.tex
 Phụ lục A.
-) [5
+) [18
 
 
-] (main.aux (Appendix/adviser.aux) (Appendix/thanks.aux) (Appendix/tomtat.aux) (Chapter1/chapter1.aux) (Appendix/publication.aux) (Appendix/appendix1.aux))
+] (main.aux (Appendix/adviser.aux) (Appendix/thanks.aux) (Appendix/tomtat.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux) (Appendix/publication.aux) (Appendix/appendix1.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1154,23 +1229,23 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 007FFC3FA1D434607D120B54B5AD04CE;3375.
+(rerunfilecheck)             Checksum: 55CBEE645F44F71366AAB68B1E55A95E;12937.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30525 strings out of 474486
- 578753 string characters out of 5739472
- 1933542 words of memory out of 5000000
- 52275 multiletter control sequences out of 15000+600000
+ 30708 strings out of 474486
+ 582719 string characters out of 5739472
+ 1940542 words of memory out of 5000000
+ 52381 multiletter control sequences out of 15000+600000
  569418 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,10n,93p,1920b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\NGUYEN VAN HAI\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/NGUYEN VAN HAI/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt10.pfb>
-Output written on main.pdf (12 pages, 429407 bytes).
+Output written on main.pdf (26 pages, 727870 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 499 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 532 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -305,6 +305,12 @@ INPUT Appendix\tomtat.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT Chapter1\chapter1.aux
+INPUT .\Chapter2\chapter2.aux
+INPUT .\Chapter2\chapter2.aux
+INPUT Chapter2\chapter2.aux
+INPUT .\Chapter3\chapter3.aux
+INPUT .\Chapter3\chapter3.aux
+INPUT Chapter3\chapter3.aux
 INPUT .\Appendix\publication.aux
 INPUT .\Appendix\publication.aux
 INPUT Appendix\publication.aux
@@ -400,16 +406,42 @@ INPUT .\Chapter1\chapter1.tex
 INPUT .\Chapter1\chapter1.tex
 INPUT Chapter1\chapter1.tex
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vntt10.tfm
+INPUT .\Chapter2\chapter2.tex
+INPUT .\Chapter2\chapter2.tex
+OUTPUT Chapter2\chapter2.aux
+INPUT .\Chapter2\chapter2.tex
+INPUT .\Chapter2\chapter2.tex
+INPUT Chapter2\chapter2.tex
+INPUT .\images\usecase.png
+INPUT .\images\usecase.png
+INPUT .\images\usecase.png
+INPUT .\images\usecase.png
+INPUT .\images\usecase.png
+INPUT .\images\usecase.png
+INPUT .\images\usecase.png
+INPUT .\images\waterfall.png
+INPUT .\images\waterfall.png
+INPUT .\images\waterfall.png
+INPUT .\images\waterfall.png
+INPUT .\images\waterfall.png
+INPUT .\images\waterfall.png
+INPUT .\images\waterfall.png
+INPUT .\Chapter3\chapter3.tex
+INPUT .\Chapter3\chapter3.tex
+OUTPUT Chapter3\chapter3.aux
+INPUT .\Chapter3\chapter3.tex
+INPUT .\Chapter3\chapter3.tex
+INPUT Chapter3\chapter3.tex
 INPUT .\Appendix\publication.tex
 INPUT .\Appendix\publication.tex
 OUTPUT Appendix\publication.aux
 INPUT .\Appendix\publication.tex
 INPUT .\Appendix\publication.tex
 INPUT Appendix\publication.tex
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vntt10.tfm
 INPUT .\Appendix\appendix1.tex
 INPUT .\Appendix\appendix1.tex
 OUTPUT Appendix\appendix1.aux
@@ -429,6 +461,12 @@ INPUT Appendix\tomtat.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT Chapter1\chapter1.aux
+INPUT .\Chapter2\chapter2.aux
+INPUT .\Chapter2\chapter2.aux
+INPUT Chapter2\chapter2.aux
+INPUT .\Chapter3\chapter3.aux
+INPUT .\Chapter3\chapter3.aux
+INPUT Chapter3\chapter3.aux
 INPUT .\Appendix\publication.aux
 INPUT .\Appendix\publication.aux
 INPUT Appendix\publication.aux
