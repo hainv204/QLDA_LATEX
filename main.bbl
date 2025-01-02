@@ -16,5 +16,170 @@
   {}
 \endgroup
 
-\datalist[entry]{nty/global//global/global}\enddatalist
+\datalist[entry]{nty/global//global/global}
+  \entry{kim2024transformer}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=KYG}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Yong\bibnamedelima Guk},
+         giveni={Y\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=LVT}{%
+         family={Le},
+         familyi={L\bibinitperiod},
+         given={Viet\bibnamedelima Tuan},
+         giveni={V\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Google Patents}%
+    }
+    \strng{namehash}{KYGLVT1}
+    \strng{fullhash}{KYGLVT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{note}{US Patent App. 18/172,435}
+    \field{title}{Transformer-based anomaly detection apparatus and method
+  therefor}
+    \verb{url}
+    \verb https://patents.google.com/patent/US20240167852A1/en
+    \endverb
+    \field{year}{2024}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{le2023attention}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LVT}{%
+         family={Le},
+         familyi={L\bibinitperiod},
+         given={Viet-Tuan},
+         giveni={V\bibinithyphendelim T\bibinitperiod},
+      }}%
+      {{hash=KYG}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Yong-Guk},
+         giveni={Y\bibinithyphendelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LVTKYG1}
+    \strng{fullhash}{LVTKYG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1007/s10489-022-03613-1
+    \endverb
+    \field{issn}{1573-7497}
+    \field{number}{3}
+    \field{pages}{3240\bibrangedash 3254}
+    \field{title}{Attention-based residual autoencoder for video anomaly
+  detection}
+    \field{volume}{53}
+    \field{journaltitle}{Applied Intelligence}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{le2012human}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=LVT}{%
+         family={Le-Viet},
+         familyi={L\bibinithyphendelim V\bibinitperiod},
+         given={Tuan},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=LQN}{%
+         family={Ly-Quoc},
+         familyi={L\bibinithyphendelim Q\bibinitperiod},
+         given={Ngoc},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \keyw{Histograms;Humans;Image color analysis;Optical imaging;Feature
+  extraction;Computer vision;Detectors;action
+  recognition;bag-of-features;actions in context}
+    \strng{namehash}{LVTLQN1}
+    \strng{fullhash}{LVTLQN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{booktitle}{2012 International Conference on Control, Automation and
+  Information Sciences (ICCAIS)}
+    \verb{doi}
+    \verb 10.1109/ICCAIS.2012.6466569
+    \endverb
+    \field{pages}{114\bibrangedash 119}
+    \field{title}{Human action recognition on simple and complex background in
+  video}
+    \field{year}{2012}
+  \endentry
+
+  \entry{algorithms2024overleaf}{online}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={Overleaf},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{title}{Algorithms}
+    \verb{url}
+    \verb https://www.overleaf.com/learn/latex/Algorithms
+    \endverb
+    \field{urlday}{01}
+    \field{urlmonth}{08}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{Swanson1999Mathematics}{book}{}
+    \name{author}{3}{}{%
+      {{hash=SE}{%
+         family={Swanson},
+         familyi={S\bibinitperiod},
+         given={Ellen},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={O\'Sean},
+         familyi={O\bibinitperiod},
+         given={Arlene},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Schleyer},
+         familyi={S\bibinitperiod},
+         given={Antoinette},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Amer Mathematical Society}%
+    }
+    \strng{namehash}{SEOASA1}
+    \strng{fullhash}{SEOASA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{edition}{Updated edition}
+    \field{title}{Mathematics into Type}
+    \verb{url}
+    \verb https://www.ams.org/publications/authors/mit-2.pdf
+    \endverb
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
 \endinput

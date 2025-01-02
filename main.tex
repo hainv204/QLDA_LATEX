@@ -69,9 +69,6 @@
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 
-
-
- 
 % Đổi tên mặc định
 \renewcommand{\chaptername}{Chương}
 \renewcommand{\figurename}{Hình}
@@ -102,15 +99,23 @@
 \usepackage{indentfirst}
 
 % Canh lề
-
 \usepackage[
-  top=35mm,
-  bottom=20mm,
-  left=35mm,
-  right=20mm,
+  top=30mm,
+  bottom=25mm,
+  left=30mm,
+  right=25mm,
   footskip = 15mm,
   includefoot]{geometry}
-  
+
+% Fancy headers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\nouppercase{\leftmark}}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
 % Trang bìa
 \usepackage{tikz}
 \usetikzlibrary{calc}
@@ -156,6 +161,10 @@
 \include{Chapter2/chapter2}
 
 \include{Chapter3/chapter3}
+
+\include{Chapter4/chapter4}
+
+\include{Chapter5/chapter5}
 
 % \include{Chapter4/chapter4}
 
