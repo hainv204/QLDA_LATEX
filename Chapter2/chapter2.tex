@@ -3,16 +3,16 @@
 
 \section{Mô tả sản phẩm}
 \subsection{Quy định sản phẩm}
-\paragraph{Sản phẩm:} Hệ thống thông tin quản lý nhân sự - tiền lương dưới dạng 1 website, bao gồm các module như quản lý nhân sự, chấm công, tiền lương, báo cáo chi phí
-\paragraph{Yêu cầu phi chức năng:}
 \begin{itemize}
-    \item Giao diện đẹp, đơn giản, dễ sử dụng: Giao diện người dùng cần phải rõ ràng, dễ hiểu và dễ dàng thao tác, không yêu cầu người dùng có kỹ năng công nghệ cao
-    \item Đáp ứng nhu cầu của công ty: Hệ thống cần đảm bảo đáp ứng đầy đủ nhu cầu quản lý nhân sự và tiền lương của công ty, với các tính năng và chức năng phù hợp với các quy trình nội bộ của công ty
-    \item Hiển thị chính xác, chi tiết: Thông tin trong hệ thống phải được hiển thị chính xác và chi tiết, bao gồm các thông tin về nhân sự, chấm công, tiền lương, và các báo cáo liên quan
-    \item Dễ dàng nâng cấp và mở rộng: Hệ thống cần được thiết kế với khả năng mở rộng trong tương lai, để có thể tích hợp các tính năng mới hoặc nâng cấp khi cần thiết mà không gây gián đoạn quá trình vận hành hiện tại
-\end{itemize}
-\paragraph{Yêu cầu chức năng:}
-\begin{itemize}
+    \item \textbf{Sản phẩm:} Hệ thống thông tin quản lý nhân sự - tiền lương dưới dạng 1 website, bao gồm các module như quản lý nhân sự, chấm công, tiền lương, báo cáo chi phí
+    \item \textbf{Yêu cầu phi chức năng:}
+    \begin{itemize}
+        \item Giao diện đẹp, đơn giản, dễ sử dụng: Giao diện người dùng cần phải rõ ràng, dễ hiểu và dễ dàng thao tác, không yêu cầu người dùng có kỹ năng công nghệ cao
+        \item Đáp ứng nhu cầu của công ty: Hệ thống cần đảm bảo đáp ứng đầy đủ nhu cầu quản lý nhân sự và tiền lương của công ty, với các tính năng và chức năng phù hợp với các quy trình nội bộ của công ty
+        \item Hiển thị chính xác, chi tiết: Thông tin trong hệ thống phải được hiển thị chính xác và chi tiết, bao gồm các thông tin về nhân sự, chấm công, tiền lương, và các báo cáo liên quan
+        \item Dễ dàng nâng cấp và mở rộng: Hệ thống cần được thiết kế với khả năng mở rộng trong tương lai, để có thể tích hợp các tính năng mới hoặc nâng cấp khi cần thiết mà không gây gián đoạn quá trình vận hành hiện tại
+    \end{itemize}
+    \item \textbf{Yêu cầu chức năng:}
     \item Chức năng người quản lý:
     \begin{itemize}
         \item \textbf{Đăng nhập và đăng xuất:} Người quản lý cần có quyền truy cập vào hệ thống bằng tài khoản cá nhân và có thể đăng xuất sau khi hoàn thành công việc
@@ -31,7 +31,7 @@
 \item \textbf{Thống kê tài chính dễ dàng hơn:} Cung cấp các công cụ phân tích và báo cáo để người quản lý dễ dàng theo dõi chi phí nhân sự và lập các báo cáo tài chính liên quan, phục vụ cho các mục đích quản lý và báo cáo thuế
 \item \textbf{Tăng hiệu quả công việc:} Hệ thống sẽ giúp người dùng tiết kiệm thời gian và công sức trong công tác quản lý nhân sự và tiền lương, từ đó tạo điều kiện để tập trung vào các hoạt động quan trọng khác trong công ty
 \end{itemize}
-\subsection{Đặc trưng sản phẩm}
+\subsection{Actors hệ thống}
 \begin{itemize}
     \item Nhân viên quản lý 
     \item Máy chấm công
@@ -40,7 +40,7 @@
     \item Hệ thống kế toán
     \item Nhân sự
 \end{itemize}
-\subsection{Đặc trưng sản phẩm}
+\subsection{Usecase tổng quát}
 \begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{images/usecase.png}
@@ -50,37 +50,35 @@
 
 \section{Mô hình xây dựng}
 \subsection{Phương án 1: chọn mô hình Scrum}
-\paragraph{Giới thiệu mô hình:}
 \begin{itemize}
-    \item Scrum là phương pháp phát triển phần mềm linh hoạt theo mô hình Agile, giúp đội dự án có thể thích ứng nhanh với thay đổi từ khách hàng và kiểm soát tiến độ hiệu quả. Scrum được thiết kế để xử lý các dự án có yêu cầu phức tạp, với ít thông tin ban đầu hoặc yêu cầu có thể thay đổi
-\end{itemize}
-\paragraph{Ưu điểm:}
+    \item \textbf{Giới thiệu mô hình:} Scrum là phương pháp phát triển phần mềm linh hoạt theo mô hình Agile, giúp đội dự án có thể thích ứng nhanh với thay đổi từ khách hàng và kiểm soát tiến độ hiệu quả. Scrum được thiết kế để xử lý các dự án có yêu cầu phức tạp, với ít thông tin ban đầu hoặc yêu cầu có thể thay đổi
+    \item \textbf{Ưu điểm:}
 \begin{itemize}
     \item Dễ dàng thích ứng với thay đổi trong yêu cầu
     \item Có sự cộng tác chặt chẽ giữa các bên
     \item Sản phẩm được phát triển và kiểm thử liên tục, giảm thiểu rủi ro
 \end{itemize}
-\paragraph{Nhược điểm:}
+\item \textbf{Nhược điểm:}
 \begin{itemize}
     \item Yêu cầu khách hàng tham gia xuyên suốt dự án
     \item Phù hợp với các dự án có yêu cầu linh hoạt, không thích hợp với yêu cầu cố định
 \end{itemize}
+\end{itemize}
 \subsection{Phương án 2: mô hình thác nước (Waterfall)}
-\paragraph{Giới thiệu mô hình:}
 \begin{itemize}
-    \item Mô hình Thác Nước là quy trình phát triển phần mềm tuyến tính, các giai đoạn được thực hiện tuần tự và không thay đổi khi đã chuyển sang bước tiếp theo
-\end{itemize}
-\paragraph{Ưu điểm:}
-\begin{itemize}
-    \item Quy trình rõ ràng, có thể đo lường tiến độ dự án dễ dàng
-    \item Phù hợp với các dự án có yêu cầu cụ thể và cố định từ đầu
-    \item Tiết kiệm thời gian và chi phí cho các dự án quy mô nhỏ, ít thay đổi
-\end{itemize}
-\paragraph{Nhược điểm:}
-\begin{itemize}
-    \item Khó thích ứng với yêu cầu thay đổi của khách hàng trong quá trình phát triển
-    \item Lỗi phát hiện ở giai đoạn cuối sẽ tốn kém chi phí và thời gian sửa chữa
-    \item Khách hàng chỉ thấy sản phẩm hoàn chỉnh khi kết thúc dự án
+    \item \textbf{Giới thiệu mô hình:} Mô hình Thác Nước là quy trình phát triển phần mềm tuyến tính, các giai đoạn được thực hiện tuần tự và không thay đổi khi đã chuyển sang bước tiếp theo
+    \item \textbf{Ưu điểm:}
+    \begin{itemize}
+        \item Quy trình rõ ràng, có thể đo lường tiến độ dự án dễ dàng
+        \item Phù hợp với các dự án có yêu cầu cụ thể và cố định từ đầu
+        \item Tiết kiệm thời gian và chi phí cho các dự án quy mô nhỏ, ít thay đổi
+    \end{itemize}
+    \item \textbf{Nhược điểm:} 
+    \begin{itemize}
+        \item Khó thích ứng với yêu cầu thay đổi của khách hàng trong quá trình phát triển
+        \item Lỗi phát hiện ở giai đoạn cuối sẽ tốn kém chi phí và thời gian sửa chữa
+        \item Khách hàng chỉ thấy sản phẩm hoàn chỉnh khi kết thúc dự án
+    \end{itemize}
 \end{itemize}
 \subsection{Kết luận về phương án lựa chọn}
 \begin{itemize}
