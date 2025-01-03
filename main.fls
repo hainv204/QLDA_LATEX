@@ -321,6 +321,9 @@ INPUT main.aux
 INPUT .\Appendix\thanks.aux
 INPUT .\Appendix\thanks.aux
 INPUT Appendix\thanks.aux
+INPUT .\Appendix\tomtat.aux
+INPUT .\Appendix\tomtat.aux
+INPUT Appendix\tomtat.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT Chapter1\chapter1.aux
@@ -342,9 +345,6 @@ INPUT Appendix\publication.aux
 INPUT .\Appendix\tailieuthamkhao.aux
 INPUT .\Appendix\tailieuthamkhao.aux
 INPUT Appendix\tailieuthamkhao.aux
-INPUT .\Appendix\appendix1.aux
-INPUT .\Appendix\appendix1.aux
-INPUT Appendix\appendix1.aux
 OUTPUT main.aux
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
@@ -374,19 +374,19 @@ INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\e
 INPUT .\Title\title.tex
 INPUT .\Title\title.tex
 INPUT Title\title.tex
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
-INPUT .\images\Logo-DH-Thuy-Loi.png
-INPUT .\images\Logo-DH-Thuy-Loi.png
-INPUT .\images\Logo-DH-Thuy-Loi.png
-INPUT .\images\Logo-DH-Thuy-Loi.png
-INPUT .\images\Logo-DH-Thuy-Loi.png
-INPUT .\images\Logo-DH-Thuy-Loi.png
-INPUT .\images\Logo-DH-Thuy-Loi.png
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT .\images\Logo-DH-Thuy-Loi.png
+INPUT .\images\Logo-DH-Thuy-Loi.png
+INPUT .\images\Logo-DH-Thuy-Loi.png
+INPUT .\images\Logo-DH-Thuy-Loi.png
+INPUT .\images\Logo-DH-Thuy-Loi.png
+INPUT .\images\Logo-DH-Thuy-Loi.png
+INPUT .\images\Logo-DH-Thuy-Loi.png
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnbx10.tfm
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT .\Appendix\thanks.tex
 INPUT .\Appendix\thanks.tex
 OUTPUT Appendix\thanks.aux
@@ -394,7 +394,12 @@ INPUT .\Appendix\thanks.tex
 INPUT .\Appendix\thanks.tex
 INPUT Appendix\thanks.tex
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
+INPUT .\Appendix\tomtat.tex
+INPUT .\Appendix\tomtat.tex
+OUTPUT Appendix\tomtat.aux
+INPUT .\Appendix\tomtat.tex
+INPUT .\Appendix\tomtat.tex
+INPUT Appendix\tomtat.tex
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
@@ -414,6 +419,8 @@ INPUT .\Chapter1\chapter1.tex
 INPUT .\Chapter1\chapter1.tex
 INPUT Chapter1\chapter1.tex
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnr12.tfm
+INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\tfm\vntex\vnr\vnbx12.tfm
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\tex\latex\vntex\t5cmtt.fd
@@ -559,11 +566,13 @@ OUTPUT Appendix\tailieuthamkhao.aux
 INPUT .\Appendix\tailieuthamkhao.tex
 INPUT .\Appendix\tailieuthamkhao.tex
 INPUT Appendix\tailieuthamkhao.tex
-OUTPUT Appendix\appendix1.aux
 INPUT main.aux
 INPUT .\Appendix\thanks.aux
 INPUT .\Appendix\thanks.aux
 INPUT Appendix\thanks.aux
+INPUT .\Appendix\tomtat.aux
+INPUT .\Appendix\tomtat.aux
+INPUT Appendix\tomtat.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT .\Chapter1\chapter1.aux
 INPUT Chapter1\chapter1.aux
@@ -585,9 +594,6 @@ INPUT Appendix\publication.aux
 INPUT .\Appendix\tailieuthamkhao.aux
 INPUT .\Appendix\tailieuthamkhao.aux
 INPUT Appendix\tailieuthamkhao.aux
-INPUT .\Appendix\appendix1.aux
-INPUT .\Appendix\appendix1.aux
-INPUT Appendix\appendix1.aux
 INPUT .\main.out
 INPUT .\main.out
 INPUT main.run.xml
@@ -600,7 +606,5 @@ INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vn
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vnbx12.pfb
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vnr10.pfb
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vnr10.pfb
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vnr12.pfb
-INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vnr12.pfb
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vntt10.pfb
 INPUT C:\Users\NGUYEN VAN HAI\AppData\Local\Programs\MiKTeX\fonts\type1\vntex\vnr\vntt10.pfb

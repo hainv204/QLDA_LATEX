@@ -75,7 +75,6 @@
 \renewcommand{\contentsname}{Mục lục}
 \renewcommand{\listfigurename}{Danh sách hình}
 \renewcommand{\listtablename}{Danh sách bảng}
-\renewcommand{\appendixname}{Phụ lục}
 
 % Định dạng chapter
 \usepackage{titlesec}
@@ -120,19 +119,12 @@
 \usetikzlibrary{calc}
 \newcommand\HRule{\rule{\textwidth}{1pt}}
 
-\newcommand{\tenSV}{Nguyễn~Văn~A} % Dấu ~ là khoảng trắng không được tách (các chữ nối với nhau bằng dấu ~ sẽ nằm cùng 1 dòng
-\newcommand{\mssv}{1234567}
-\newcommand{\tenKL}{Sử~dụng~LaTeX trong Khoá~luận~tốt~nghiệp} 
-\newcommand{\tenGVHD}{Tên~Giáo~Viên}
-\newcommand{\tenBM}{Công nghệ tri thức}
-
 \begin{document}
 
 \input{Title/title.tex}
 
 \include{Appendix/thanks}
-
-\addcontentsline{toc}{chapter}{Mục lục}
+\include{Appendix/tomtat}
 \tableofcontents
 \listoffigures
 \listoftables
@@ -152,16 +144,9 @@
 
 \include{Chapter5/chapter5}
 
-% Công trình của tác giả (nếu không có thì comment 02 dòng dưới)
-\addcontentsline{toc}{chapter}{Kết luận và hướng phát triển}
 \include{Appendix/publication}
 
-% In tài liệu tham khảo
-\addcontentsline{toc}{chapter}{Tài liệu tham khảo}
 \include{Appendix/tailieuthamkhao}
-
-
-%\printbibliography[heading=subbibliography, title={Tiếng Việt}, keyword=\textbf{Tieng}, resetnumbers=true]
 
 \DeclareNameAlias{sortname}{last-first}
 \DeclareNameAlias{default}{last-first}
@@ -170,8 +155,5 @@
 % ===================================================================== %
 % CHÚ Ý: phải gán lại resetnumbers=số tài liệu tham khảo tiếng Việt + 1 %
 % ===================================================================== %
-
-% Phần phụ lục
-\include{Appendix/appendix1}
 
 \end{document}

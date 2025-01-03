@@ -7,6 +7,8 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 Reallocating 'name_of_file' (item size: 1) to 20 items.
 A level-1 auxiliary file: Appendix/thanks.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: Appendix/tomtat.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
 A level-1 auxiliary file: Chapter1/chapter1.aux
 Reallocating 'name_of_file' (item size: 1) to 22 items.
@@ -21,8 +23,6 @@ Reallocating 'name_of_file' (item size: 1) to 25 items.
 A level-1 auxiliary file: Appendix/publication.aux
 Reallocating 'name_of_file' (item size: 1) to 29 items.
 A level-1 auxiliary file: Appendix/tailieuthamkhao.aux
-Reallocating 'name_of_file' (item size: 1) to 23 items.
-A level-1 auxiliary file: Appendix/appendix1.aux
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
@@ -45,7 +45,7 @@ Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 You've used 1 entry,
             6399 wiz_defined-function locations,
-            1212 strings with 9179 characters,
+            1212 strings with 9176 characters,
 and the built_in function-call counts, 1534 in all, are:
 = -- 73
 > -- 70
